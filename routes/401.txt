@@ -1,0 +1,91 @@
+La Tour 1579
+Coquelicots 1186
+A.Briand 1304
+Louis Tostain 1490
+Donjon-Marché 1196
+Donjon 1369
+Guy Môquet 1370
+Bois Clairs 1388
+Eperon 1461
+Joliot-Curie 1423
+Saint Hubert 1194
+Pierre Mendès-France 1198
+CES Lycée 1200
+Piscine 1530
+Rond-Point de Fleury 1204
+Mairie 1206
+Hôpital Manhès 1561
+ZI des Ciroliers 1596
+Les Closeaux St-Spire 1355
+La Mare aux Moules 1502
+Les Quinconges 1123
+Les Remises 1125
+1120 Marinière Lycée
+1486 Louis Bourdet
+1344 Cimetière
+1374 Edouard Branly
+1139 La Garenne
+1518 Paul Delouvrier
+1055 Les Estudines
+1065 Monseigneur Roméro
+1143 Evry-Courcouronnes Centre
+1007 Agora
+1003 Les Miroirs
+1033 Les Galants Courts
+1046 Préfecture
+1094 Aguado
+1098 Saint-Exupéry
+1090 Pasteur
+1071 Gare du Bras de Fer RER
+1112 Faculté des Métiers *
+1020 Rond Point Hôpital
+1568 Strathkelvin
+2256 Général de Gaulle
+1396 Gustave Courbet
+ST-MICHEL-SUR-ORGE 1187
+2267 GARE RER CORBEIL-ESSONNES
+Gustave Courbet 1397
+Général de Gaulle 2259
+Strathkelvin 2255
+Rond Point Hôpital 1019
+Faculté des Métiers * 1113
+Gare du Bras de Fer RER 1070
+Pasteur 1091
+Saint-Exupéry 1099
+Aguado 1095
+Préfecture 1047
+Les Galants Courts 1034
+Les Miroirs 1004
+Agora 1010
+Evry-Courcouronnes Centre 1105
+Monseigneur Roméro 1064
+Les Estudines 1056
+Paul Delouvrier 1519
+La Garenne 1140
+Edouard Branly 1375
+Cimetière 1345
+Louis Bourdet 1487
+Marinière Lycée 1121
+1126 Les Remises
+1124 Les Quinconges
+1503 La Mare aux Moules
+1356 Les Closeaux St-Spire
+1595 ZI des Ciroliers
+1560 Hôpital Manhès
+1207 Mairie
+1205 Rond-Point de Fleury
+1531 Piscine
+1201 CES Lycée
+1199 Pierre Mendès-France
+1195 Saint Hubert
+1424 Joliot-Curie
+1462 Eperon
+1389 Bois Clairs
+1371 Guy Môquet
+1369 Donjon
+1197 Donjon-Marché
+1491 Louis Tostain
+1305 A.Briand
+1559 Coquelicots
+1580 La Tour
+1556 RUE BERLIOZ

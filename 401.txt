@@ -1,0 +1,886 @@
+La Tour 1579
+Coquelicots 1186
+A.Briand 1304
+Louis Tostain 1490
+Donjon-Marché 1196
+Donjon 1369
+Guy Môquet 1370
+Bois Clairs 1388
+Eperon 1461
+Joliot-Curie 1423
+Saint Hubert 1194
+Pierre Mendès-France 1198
+CES Lycée 1200
+Piscine 1530
+Rond-Point de Fleury 1204
+Mairie 1206
+Hôpital Manhès 1561
+ZI des Ciroliers 1596
+Les Closeaux St-Spire 1355
+La Mare aux Moules 1502
+Les Quinconges 1123
+Les Remises 1125
+1120 Marinière Lycée
+1486 Louis Bourdet
+1344 Cimetière
+1374 Edouard Branly
+1139 La Garenne
+1518 Paul Delouvrier
+1055 Les Estudines
+1065 Monseigneur Roméro
+1143 Evry-Courcouronnes Centre
+1007 Agora
+1003 Les Miroirs
+1033 Les Galants Courts
+1046 Préfecture
+1094 Aguado
+1098 Saint-Exupéry
+1090 Pasteur
+1071 Gare du Bras de Fer RER
+1112 Faculté des Métiers *
+1020 Rond Point Hôpital
+1568 Strathkelvin
+2256 Général de Gaulle
+1396 Gustave Courbet
+ST-MICHEL-SUR-ORGE 1187
+2267 GARE RER CORBEIL-ESSONNES
+Gustave Courbet 1397
+Général de Gaulle 2259
+Strathkelvin 2255
+Rond Point Hôpital 1019
+Faculté des Métiers * 1113
+Gare du Bras de Fer RER 1070
+Pasteur 1091
+Saint-Exupéry 1099
+Aguado 1095
+Préfecture 1047
+Les Galants Courts 1034
+Les Miroirs 1004
+Agora 1010
+Evry-Courcouronnes Centre 1105
+Monseigneur Roméro 1064
+Les Estudines 1056
+Paul Delouvrier 1519
+La Garenne 1140
+Edouard Branly 1375
+Cimetière 1345
+Louis Bourdet 1487
+Marinière Lycée 1121
+1126 Les Remises
+1124 Les Quinconges
+1503 La Mare aux Moules
+1356 Les Closeaux St-Spire
+1595 ZI des Ciroliers
+1560 Hôpital Manhès
+1207 Mairie
+1205 Rond-Point de Fleury
+1531 Piscine
+1201 CES Lycée
+1199 Pierre Mendès-France
+1195 Saint Hubert
+1424 Joliot-Curie
+1462 Eperon
+1389 Bois Clairs
+1371 Guy Môquet
+1369 Donjon
+1197 Donjon-Marché
+1491 Louis Tostain
+1305 A.Briand
+1559 Coquelicots
+1580 La Tour
+1556 RUE BERLIOZ
+13
+La Tour 1579
+Coquelicots 1186
+A.Briand 1304
+Louis Tostain 1490
+Donjon-Marché 1196
+Donjon 1369
+Guy Môquet 1370
+Bois Clairs 1388
+Eperon 1461
+Joliot-Curie 1423
+Saint Hubert 1194
+Pierre Mendès-France 1198
+CES Lycée 1200
+Piscine 1530
+Rond-Point de Fleury 1204
+Mairie 1206
+Hôpital Manhès 1561
+ZI des Ciroliers 1596
+Les Closeaux St-Spire 1355
+La Mare aux Moules 1502
+Les Quinconges 1123
+Les Remises 1125
+1120 Marinière Lycée
+1486 Louis Bourdet
+1344 Cimetière
+1374 Edouard Branly
+1139 La Garenne
+1518 Paul Delouvrier
+1055 Les Estudines
+1065 Monseigneur Roméro
+1143 Evry-Courcouronnes Centre
+1007 Agora
+1003 Les Miroirs
+1033 Les Galants Courts
+1046 Préfecture
+1094 Aguado
+1098 Saint-Exupéry
+1090 Pasteur
+1071 Gare du Bras de Fer RER
+1112 Faculté des Métiers *
+1020 Rond Point Hôpital
+1568 Strathkelvin
+2256 Général de Gaulle
+1396 Gustave Courbet
+RUE BERLIOZ
+ST-MICHEL-SUR-ORGE 1187
+12
+2267 GARE RER
+CORBEIL-ESSONNES
+ST-MICHEL
+SUR-ORGE STE-GENEVIEVE FLEURY-MEROGIS BONDOUFLE
+BONDOUFLE COURCOURONNES ÉVRY CORBEIL ESSONNES
+Gustave Courbet 1397
+Général de Gaulle 2259
+Strathkelvin 2255
+Rond Point Hôpital 1019
+Faculté des Métiers * 1113
+Gare du Bras de Fer RER 1070
+Pasteur 1091
+Saint-Exupéry 1099
+Aguado 1095
+Préfecture 1047
+Les Galants Courts 1034
+Les Miroirs 1004
+Agora 1010
+Evry-Courcouronnes Centre 1105
+Monseigneur Roméro 1064
+Les Estudines 1056
+Paul Delouvrier 1519
+La Garenne 1140
+Edouard Branly 1375
+Cimetière 1345
+Louis Bourdet 1487
+Marinière Lycée 1121
+1126 Les Remises
+1124 Les Quinconges
+1503 La Mare aux Moules
+1356 Les Closeaux St-Spire
+1595 ZI des Ciroliers
+1560 Hôpital Manhès
+1207 Mairie
+1205 Rond-Point de Fleury
+1531 Piscine
+1201 CES Lycée
+1199 Pierre Mendès-France
+1195 Saint Hubert
+1424 Joliot-Curie
+1462 Eperon
+1389 Bois Clairs
+1371 Guy Môquet
+1369 Donjon
+1197 Donjon-Marché
+1491 Louis Tostain
+1305 A.Briand
+1559 Coquelicots
+1580 La Tour
+GARE RER
+CORBEIL-ESSONNES 2267
+1556 RUE BERLIOZ
+ST-MICHEL-SUR-ORGE
+CORBEIL
+ESSONNES ÉVRY COURCOURONNES
+BONDOUFLE FLEURY-MEROGIS STE-GENEVIEVE ST-MICHEL SUR-ORGE
+RUE BERLIOZ
+ST-MICHEL-SUR-ORGE
+GARE RER
+CORBEIL-ESSONNES
+GARE RER
+CORBEIL-ESSONNES
+RUE BERLIOZ
+ST-MICHEL-SUR-ORGE
+* L’arrêt Falcuté des Métiers ne sera plus
+desservi à partir du 2ème trimestre 2012
+1392
+Rue de Morsang
+Les Merisiers
+1567
+1565
+Guérinière 1395
+Mairie 1202
+1149
+1136
+1318
+1535
+Marché 1017
+1533
+1425
+1181
+Jean Moulin 1180
+1420
+1182
+1183
+1175
+Le Damier 1176
+1439
+Mairie 1173
+1171
+1178
+1602
+Jean Jaurès 1647
+1654
+1545
+1651
+1021
+1038
+1040
+1044
+1036 Jean Renoir
+1084 Parc des Loges
+1005 Les Miroirs
+1008
+1619
+1064 Monseigneur Roméro
+1080 Jean Rostand
+1048
+1066
+1062
+1051
+1068
+1217
+1612
+1303
+1242
+1569
+1652 Montconseil
+2278
+1539
+1574
+1332
+1437 La Demi-Lune
+1576 Rue du Puits
+2268 Mairie
+GARE RER 1089
+1226 TERMINAL DAVID DOUILLET
+GARE RER TERMINAL
+DAVID DOUILLET
+Mairie 1224
+Rue du Puits 1575
+La Demi-Lune 1436
+1331
+1573
+1538
+2277
+Montconseil 2281
+2274
+2286
+1243
+1611
+2269
+1069
+1052
+1063
+1067
+1049
+Jean Rostand 1081
+Monseigneur Roméro 1065
+1127
+1012
+Les Miroirs 1006
+Parc des Loges 1085
+Jean Renoir 1037
+1045
+1041
+1039
+1023
+1650
+1544
+1653
+1646 Jean Jaurès
+1601
+1179
+1172
+1174 Mairie
+1438
+1177 Le Damier
+1635
+1184
+1603
+1648
+1419
+1571 Jean Moulin
+1638
+1426
+1532
+1016 Marché
+1534
+1317
+1135
+1584
+1148
+Les Merisiers
+1203 Mairie
+1394 Guérinière
+1564
+Rue de Morsang -
+1566
+TERMINAL DAVID DOUILLET 1226
+1089 GARE RER
+TERMINAL
+DAVID DOUILLET GARE RER
+1446
+
+1038
+1043
+Jean Mermoz 1413
+La Garenne 1140
+1133
+1129
+Le Lac 1131
+1342
+1340
+1145
+1540
+Petite Montagne 1520
+1035
+J.M. Djibaou 1060
+1055
+Monseigneur Roméro 1065
+1118
+1009
+Les Miroirs 1001
+Jules Vallès 1427
+1073
+Le Parc 1108
+1110
+1102
+1094
+1098
+Pasteur 1090
+1091 Pasteur
+1099
+1095
+1103
+1111
+1109 Le Parc
+1074
+1428 Jules Vallès
+1004 Les Miroirs
+1010
+1622
+1064 Monseigneur Roméro
+1056
+1059 J.M. Djibaou
+1115
+1521 Petite Montagne
+1541
+1146
+1341
+1343
+1132 Le Lac
+1130
+1134
+1139 La Garenne
+1414 Jean Mermoz
+1042
+1039
+BOIS DE L’ÉPINE RER 1022 1070 GARE DU BRAS DE FER RER
+1597 GARE DU BRAS DE FER RER BOIS DE L’ÉPINE RER 1071
+BOIS DE L’ÉPINE RER GARE DU BRAS DE FER RER
+1015
+1300 8 mai 1945
+2279
+2288 Pablo Picasso
+1402 Henri Matisse
+2275
+2256 Général de Gaulle
+1396
+2261
+1349
+2283
+2284
+1246
+1504
+1512
+2276
+1242
+1360
+1488
+1658
+1620
+1586
+BOIS DE L’ÉPINE RER 1022
+1086
+1078
+1057
+1053
+1082
+Jules Vallès 1428
+Les Miroirs 1004
+1011
+1640
+Monseigneur Roméro 1064
+1056
+J.M. Djibaou 1059
+1115
+Petite Montagne 1521
+Dame du Lac 1364
+1146
+1478
+1336
+Les Malines 1142
+1613
+Mairie 1657
+1496
+1449
+1353
+1400
+Les Longaines 1470
+1028
+BOIS DE L’ÉPINE RER HENRI DUNANT
+1013 HENRI DUNANT
+HENRI DUNANT 1013
+1587
+2282
+2287
+1489
+1361
+1243
+1211
+1513
+1505
+1614
+2285
+1621
+1350
+2266
+1397
+Général de Gaulle 2259
+Gauguin 1390
+1357
+2280
+8 mai 1945 1301
+1014
+1027
+Les Longaines 1471
+1401
+1354
+1450
+1497
+1656 Mairie
+1147
+1141 Les Malines
+1337
+1479
+1145
+1363 Dame du Lac
+1520 Petite Montagne
+1035
+1060 J.M. Djibaou
+1055
+1065 Monseigneur Roméro
+1117
+1009
+1001 Les Miroirs
+1427 Jules Vallès
+1083
+1054
+1058
+1079
+1087
+1597 BOIS DE L’ÉPINE RER
+HENRI DUNANT BOIS DE L’ÉPINE RER
+
+AUNETTES 1116 1555 GARE VAL DE RIS
+1617
+1441 La Fontaine
+1366 Daumesnil
+1605
+1554
+1600
+1399 Gutenberg
+1096
+1092 Ratisbonne
+1074
+1428 Jules Vallès
+1002 Les Miroirs
+1011
+1640
+1064 Monseigneur Roméro
+1056
+1660
+1661
+1116 AUNETTES
+1050
+1061
+1055
+Monseigneur Roméro 1065
+1117
+1009
+Les Miroirs 1001
+Jules Vallès 1427
+1073
+Ratisbonne 1093
+1097
+Gutenberg 1398
+1599
+1553
+1378
+Daumesnil 1365
+La Fontaine 1440
+1616
+GARE VAL DE RIS 1555
+AUNETTES GARE VAL DE RIS
+Monseigneur Roméro 1065
+1117
+1012
+Les Miroirs 1001
+Rosenberg 1549
+Jules Vallès 1427
+1083
+1054
+Gutenberg 1399
+1096
+Ratisbonne 1092
+Le Parc 1108
+1110
+1523
+1510
+Rossini 1551
+1666
+1633
+1627
+Patton-Mousseau 1668
+1330
+1563
+1481
+1452
+1451
+1480
+1562
+1329
+1667 Patton-Mousseau
+1626
+1632
+1665
+1550 Rossini
+1509
+1522
+1338
+1111
+1109 Le Parc
+1093 Ratisbonne
+1097
+1398 Gutenberg
+1053
+1082
+1429 Jules Vallès
+1548 Rosenberg
+1002 Les Miroirs
+1008
+1640
+1064 Monseigneur Roméro
+MAIRIE 1630 1072 GARE DU BRAS DE FER RER
+1630 MAIRIE
+GARE DU BRAS DE FER RER 1636
+MAIRIE GARE DU BRAS DE FER RER
+CENTRE COMMERCIAL 1036 1352 CLÉMENT ADER
+1596
+1355
+1502
+1673 Les Quinconges
+1125 Les Remises
+1120
+1324
+1485 Les Vergers
+1460
+1137 La Vanne
+1456 Le Lunain
+1340
+1478
+1336
+1142 Les Malines
+1613
+1670 Ferme des Folies
+1672 Léonard de Vinci
+1657 Mairie
+1496
+1449 L’Églantier
+L'Églantier
+Clos aux Pois
+Ikea
+Petits Champs
+Les Brateaux
+Les Brateaux
+Petits Champs
+Ikea
+Clos aux Pois
+1450
+1497
+Mairie
+VILLABÉ
+VILLABÉ
+1656
+1147
+1032
+1525
+1407
+1354
+Léonard de Vinci 1671
+Ferme des Folies 1669
+Les Malines 1141
+1337
+1479
+1341
+Le Lunain 1455
+La Vanne 1138
+1459
+Les Vergers 1484
+1323
+1121
+Les Remises 1583
+Les Quinconges 1674
+1503
+1356
+1595
+1354
+1408
+1524
+1031
+1607
+CENTRE COMMERCIAL CLÉMENT ADER
+
+CIAL AUNETTES 1605 1464 LES COCCINELLES
+1018
+1466 Les Demoiselles
+1499 Maisons du Golf
+1382 Faisanderie
+1121
+1486
+1344
+1374
+1139 La Garenne
+1414 Jean Mermoz
+1042
+1039
+1024
+1650
+1544
+1653
+1391
+1313
+1605 CIAL AUNETTES
+LES COCCINELLES 1463
+1378
+Daumesnil 1365
+1662
+1654
+1545
+1651
+1021
+1038
+1043
+Jean Mermoz 1413
+La Garenne 1140
+1375
+1345
+1487
+1121
+Faisanderie 1381
+Maisons du Golf 1498
+Les Demoiselles 1465
+Hôtel de Ville 1406
+1434
+1570
+CIAL AUNETTES LES COCCINELLES
+Monseigneur Roméro 1064
+Les Estudines 1056
+Avenue du Lac 1314
+Bois Briard 1325
+Saint-Guénault 1655
+Jean Mermoz 1411
+La Garenne 1140
+Thorigny 1133
+Mairie 1680
+La Vanne 1138
+Les Bocages 1459
+Les Vergers 1484
+Bois Bailleul 1323
+Faisanderie 1381
+Maisons du Golf 1498
+Les Demoiselles 1465
+Pasteur 1645
+Pierre Marcille 1526
+Général de Gaulle 1641
+Les Petits Bois 1476
+Arnaud Massy 1306
+Imprimerie Nationale 1409
+ZI Bordes Sud 1684
+ZI G.Madiot 1593
+ZI Bordes Nord 1682
+ÉVRY-COURCOURONNES
+CENTRE
+ÉVRY
+1622
+LA TREMBLAIE
+LE PLESSIS-PATE 1448
+C.G.A. 1334
+Eurocontrol 1380
+1683 ZI Bordes Nord
+1594 ZI G.Madiot
+1685 ZI Bordes Sud
+1410 Imprimerie Nationale
+1307 Arnaud Massy
+1477 Les Petits Bois
+1642 Général de Gaulle
+1527 Pierre Marcille
+1663 Pasteur
+1466 Les Demoiselles
+1499 Maisons du Golf
+1382 Faisanderie
+1324 Bois Bailleul
+1485 Les Vergers
+1460 Les Bocages
+1137 La Vanne
+1681 Mairie
+1134 Thorigny
+1139 La Garenne
+1412 Jean Mermoz
+1128 Saint-Guénault
+1326 Bois Briard
+1315 Avenue du Lac
+1055 Les Estudines
+1065 Monseigneur Roméro
+1447 LA TREMBLAIE LE PLESSIS-PATE
+1380 Eurocontrol
+1335 C.G.A.
+27
+ÉVRY-COURCOURONNES
+CENTRE
+ÉVRY
+1622
+26
+1516 PARC DE TRÉVILLE
+VERT-LE-GRAND
+1410 Imprimerie Nationale
+1456 Le Lunain
+1145 Chemin de la Joute
+1060 J.M. Djibaou
+1055 Les Estudines
+1065 Monseigneur Roméro
+1143
+ÉVRY-COURCOURONNES
+CENTRE
+ÉVRY
+PARC DE TRÉVILLE
+VERT-LE-GRAND 1516
+Monseigneur Roméro 1064
+Les Estudines 1056
+J.M. Djibaou 1059
+Chemin de la Joute 1146
+Le Lunain 1455
+Imprimerie Nationale 1409
+ÉVRY
+LISSES
+LISSES
+ÉVRY
+BON*
+*BONDOUFLE
+BON*
+ÉVRY BONDOUFLE COURCOURONNES LE PLESSIS PATE
+1143
+ÉVRY-COURCOURONNES
+CENTRE
+ÉVRY
+LE PLESSIS
+PATE BONDOUFLE ÉVRY COURCOURONNES
+ÉVRY-COURCOURONNES CENTRE
+ÉVRY
+LA TREMBLAIE
+LE PLESSIS-PATE
+ÉVRY-COURCOURONNES CENTRE
+ÉVRY
+PARC DE TRÉVILLE
+VERT-LE-GRAND
+POUR OBTENIR LES HORAIRES DE LA 414D,
+TAPER SEULEMENT 414.
+NOUVEAU & PRATIQUE
+Monseigneur Roméro 1064
+1056
+J.M. Djibaou 1059
+1115
+Petite Montagne 1521
+1542
+1367
+1327
+Pyrénées
+Clos aux Pois Pyrénées
+1218
+1353
+1321
+1310
+1432
+1408
+1524
+1031
+1607
+Mairie 1686
+1348
+1029 Mairie
+1026
+1032 Les Brateaux
+1525
+1407
+1433
+1311
+1322
+1354
+1219
+1328
+1368
+1543
+1520 Petite Montagne
+1035
+1060 J.M. Djibaou
+1055
+1065 Monseigneur Roméro
+ÉVRY-COURCOURONNES
+CENTRE 1105 1030 GARE SNCF
+1143
+ÉVRY-COURCOURONNES
+CENTRE GARE SNCF 1030
+ÉVRY-COURCOURONNES CENTRE GARE SNCF
+Monseigneur Roméro 1064
+1056
+J.M. Djibaou 1059
+1115
+Petite Montagne 1521
+1542
+1367
+1327
+Ferme de Place 1384
+Léonard de Vinci 1671
+Léonard de Vinci
+LISSES
+1672
+1385 Ferme de Place
+1328
+1368
+1543
+1520 Petite Montagne
+1035
+1060 J.M. Djibaou
+1055
+1065 Monseigneur Roméro
+ÉVRY-COURCOURONNES
+CENTRE 1105 1670
+1143
+ÉVRY-COURCOURONNES
+1669 CENTRE
+ÉVRY-COURCOURONNES CENTRE FERME DES FOLIES
+LISSES
+FERME DES FOLIES
+LISSES
+FERME DES FOLIES
