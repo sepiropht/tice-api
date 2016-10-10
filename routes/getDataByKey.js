@@ -7,6 +7,9 @@ var fs = require('fs');
 /* GET users listing. */
 router.get('/', function(req, res, next) {
     let arrayForm = [];
+    let id=30000;
+    let it=0;
+    let obj = {};
     fs.readFile('401.txt', {
         encoding: 'utf8'
     }, (err, data) => {
@@ -18,6 +21,7 @@ router.get('/', function(req, res, next) {
             line.split(' ').forEach((word,i, currentLine) => {
                 if (!isNaN(word)) {
                     let form = {
+                        '_id': id++,
                         'a': 'recherche_code',
                         'code': word
                     }
@@ -29,11 +33,15 @@ router.get('/', function(req, res, next) {
                        currentLine.splice(-1,1);
                        form.station = currentLine.join(' ');
                     }
-                    console.log(JSON.stringify(form))
-                    arrayForm.push(form);
+                    it++
+
+                    obj[it] = form;
+                    //console.log(JSON.stringify(obj)+'\n')
+                    //arrayForm.push(JSON.stringify(obj)+'\n');
                 }
             })
         })
+        fs.writeFile('output.json', JSON.stringify(obj))
     })
     arrayForm.forEach(form => {
       //goSearch(form);
