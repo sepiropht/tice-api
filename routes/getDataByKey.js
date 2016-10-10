@@ -7,8 +7,8 @@ var fs = require('fs');
 /* GET users listing. */
 router.get('/', function(req, res, next) {
     let arrayForm = [];
-    let id=30000;
-    let it=0;
+    let id = 30000;
+    let it = 0;
     let obj = {};
     fs.readFile('401.txt', {
         encoding: 'utf8'
@@ -18,33 +18,30 @@ router.get('/', function(req, res, next) {
         arr1 = data.split('\n');
         console.log(arr1);
         arr1.forEach((line) => {
-            line.split(' ').forEach((word,i, currentLine) => {
+            line.split(' ').forEach((word, i, currentLine) => {
                 if (!isNaN(word)) {
                     let form = {
                         '_id': id++,
                         'a': 'recherche_code',
                         'code': word
                     }
-                    if(i === 0) {
-                      currentLine.splice(0,1);
-                      form.station = currentLine.join(' ');
+                    if (i === 0) {
+                        currentLine.splice(0, 1);
+                        form.station = currentLine.join(' ');
+                    } else if (i === currentLine.length - 1) {
+                        currentLine.splice(-1, 1);
+                        form.station = currentLine.join(' ');
                     }
-                    else if(i === currentLine.length-1) {
-                       currentLine.splice(-1,1);
-                       form.station = currentLine.join(' ');
-                    }
-                    it++
-
+                    it++; 
                     obj[it] = form;
-                    //console.log(JSON.stringify(obj)+'\n')
-                    //arrayForm.push(JSON.stringify(obj)+'\n');
+
                 }
             })
         })
         fs.writeFile('output.json', JSON.stringify(obj))
     })
     arrayForm.forEach(form => {
-      //goSearch(form);
+        //goSearch(form);
     })
     const goSearch = formObj => {
         const finalUrl = 'http://www.bus-tice.com/se-deplacer/timeo-vos-horaires-en-temps-reel/';
@@ -79,7 +76,6 @@ router.get('/', function(req, res, next) {
                 }
             })
             console.log(final.join(''));
-
 
         })
     }
