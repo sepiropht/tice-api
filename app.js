@@ -25,8 +25,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 app.use('/users', users);
-app.use('/getDataByKey',getDataByKey);
-app.use('/getCodeByStationName',getCodeByStationName);
+app.use('/getDataByKey/', getDataByKey);
+app.use('/getCodeByStationName/', getCodeByStationName);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');

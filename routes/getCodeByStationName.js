@@ -5,12 +5,19 @@ var mongoose = require('mongoose');
 var db = mongoose.connect('mongodb://sepiropht:azerty@ds053156.mlab.com:53156/tice-keys');
 var keyStationShema = mongoose.Schema({a: String, code: String, station: String})
 var keyStationModel = mongoose.model("tice-keys", keyStationShema);
-/* GET home page. */
+
 router.get('/', function(req, res, next) {
-    keyStationModel.find({}, (err, station) => {
-        res.send(station);
-        console.log(station);
-    })
+    const query = keyStationModel.find({}, (err, stations) => {
+        let arr = [];
+        const obj = stations[0]._doc;
+        for (k in obj) {
+            if (obj[k].station === 'Agora')
+                arr.push(obj[k])
+        }
+        res.send(arr);
+
+
+    });
 });
 
 module.exports = router;
