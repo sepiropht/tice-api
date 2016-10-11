@@ -7,8 +7,9 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
-var getDataByKey = require('./routes/getDataByKey')
-var getCodeByStationName = require('./routes/getCodeByStationName')
+var getDataByKey = require('./routes/getDataByKey');
+var getCodeByStationName = require('./routes/getCodeByStationName');
+var scrapeByName = require('./routes/scrapeByName');
 var app = express();
 
 // view engine setup
@@ -27,6 +28,7 @@ app.use('/', routes);
 app.use('/users', users);
 app.use('/getDataByKey/', getDataByKey);
 app.use('/getCodeByStationName/', getCodeByStationName);
+app.use('/scrapeByName/', scrapeByName);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');
