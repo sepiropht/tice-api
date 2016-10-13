@@ -6,12 +6,47 @@ var fs = require('fs');
 var cheerio = require('cheerio');
 var async = require('async');
 
-/* GET users listing. */
+
+const extractFromHtml = (webPage) => {
+    const $ = cheerio.load(webPage);
+    const input = $('#form_arrets input');
+    const obj = {
+        a: input[0].attribs.value,
+        refs: input[1].attribs.value,
+        sens: input[3].attribs.value,
+        ligne: input[4].attribs.value,
+        code: input[2].attribs.value
+    }
+
+    let i = 0;
+    for (key in $('#list_refs option')) {
+        if (i > 0) {
+            let station = $('#list_refs option')[key].hasOwnProperty('children')
+                ? $('#list_refs option')[key].children[0].data.trim().split("")
+                : "";
+            if (station.length !== 0) {
+                station.shift();
+                station.shift();
+                station.splice(-6);
+                station = station.join('');
+                return
+                Object.assign({}, obj, {
+                    refs: $('#list_refs option')[key].attribs.value,
+                    station: station.trim()
+                })
+            }
+        }
+        i++;
+    }
+}
+
+
+
 router.get('/', function(req, res, next) {
     let arrayForm = [];
-    let arr = [];
-    let id = 30000;
+    const arr = [];
     let it = 0;
+    const webPageArray = [];
 
     for (let i = 401; i < 421; i++) {
         arrayForm.push({
@@ -29,50 +64,30 @@ router.get('/', function(req, res, next) {
             url: finalUrl,
             formData: formObj
         }, (err, response, html) => {
-            const $ = cheerio.load(html);
-            const input = $('#form_arrets input');
-            const obj = {
-                a: input[0].attribs.value,
-                refs: input[1].attribs.value,
-                sens: input[3].attribs.value,
-                ligne: input[4].attribs.value,
-                code: input[2].attribs.value
-            }
 
-            let i = 0;
-            for (key in $('#list_refs option')) {
-                if (i > 0) {
-                    let station = $('#list_refs option')[key].hasOwnProperty('children')
-                        ? $('#list_refs option')[key].children[0].data.trim().split("")
-                        : "";
-                    if (station.length !== 0) {
-                        station.shift();
-                        station.shift();
-                        station.splice(-6);
-                        station = station.join('');
-                        arr.push(Object.assign({}, formObj, {
-
-                            refs: $('#list_refs option')[key].attribs.value,
-                            station: station.trim()
-                        }))
-                        console.log(arr[i]);
-                        fs.writeFile('output1.json', JSON.stringify(Object.assign({}, formObj, {
-
-                            refs: $('#list_refs option')[key].attribs.value,
-                            station: station.trim()
-                        })))
-                    }
-
-                }
-                i++;
-            }
-            //res.send(html);
+            webPageArray.push(html);
         })
     }
+
+    let salaud = [];
     async.eachSeries(arrayForm, function iteratee(item, callback) {
-        goSearch(item);
-        callback(false);
-    })
+        //let currentItem = item
+        setTimeout(() => {
+            goSearch(item);
+            salaud.push(item);
+            callback(false);
+          },5000)
+      }, () => {
+        console.log(salaud);
+        console.log(webPageArray);
+        const resultData = webPageArray.map(htmlPage =>{
+          return extractFromHtml(htmlPage);
+        })
+        resultData.forEach(obj => {
+          fs.writeFile('result.json', JSON.stringify(obj))
+        })
+        }
+    )
     //
 
 })
