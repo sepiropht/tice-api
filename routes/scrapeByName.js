@@ -6,18 +6,8 @@ var fs = require('fs');
 var cheerio = require('cheerio');
 var async = require('async');
 
-
-const extractFromHtml = (webPage) => {
+const extractFromHtml = (webPage, arr) => {
     const $ = cheerio.load(webPage);
-    const input = $('#form_arrets input');
-    const obj = {
-        a: input[0].attribs.value,
-        refs: input[1].attribs.value,
-        sens: input[3].attribs.value,
-        ligne: input[4].attribs.value,
-        code: input[2].attribs.value
-    }
-
     let i = 0;
     for (key in $('#list_refs option')) {
         if (i > 0) {
@@ -27,35 +17,36 @@ const extractFromHtml = (webPage) => {
             if (station.length !== 0) {
                 station.shift();
                 station.shift();
-                station.splice(-6);
+                let code = station.splice(-6);
+                code.shift();
+                code.pop();
+                code = code.join('');
                 station = station.join('');
-                return
-                Object.assign({}, obj, {
-                    refs: $('#list_refs option')[key].attribs.value,
+                arr.push(Object.assign({}, {
+                    a: 'recherche_code',
+                    code: code,
                     station: station.trim()
-                })
+                }))
             }
         }
         i++;
     }
 }
 
-
-
 router.get('/', function(req, res, next) {
     let arrayForm = [];
     const arr = [];
     let it = 0;
     const webPageArray = [];
-
     for (let i = 401; i < 421; i++) {
+
         arrayForm.push({
             a: 'recherche_ligne',
             ligne_sens: i + '_A'
         })
         arrayForm.push({
             a: 'recherche_ligne',
-            ligne_sens: i + '_B'
+            ligne_sens: i + '_R'
         })
     }
     const goSearch = formObj => {
@@ -76,18 +67,20 @@ router.get('/', function(req, res, next) {
             goSearch(item);
             salaud.push(item);
             callback(false);
-          },5000)
-      }, () => {
+        }, 5000)
+    }, () => {
         console.log(salaud);
         console.log(webPageArray);
-        const resultData = webPageArray.map(htmlPage =>{
-          return extractFromHtml(htmlPage);
+        let resultData = [];
+        webPageArray.forEach(htmlPage => {
+            extractFromHtml(htmlPage, resultData);
         })
         resultData.forEach(obj => {
-          fs.writeFile('result.json', JSON.stringify(obj))
+            fs.appendFile('../result.json', JSON.stringify(obj) + '\n', (err,data) => {
+              console.log("c'est finie!");
+            })
         })
-        }
-    )
+    })
     //
 
 })
