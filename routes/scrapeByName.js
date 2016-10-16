@@ -60,17 +60,13 @@ router.get('/', function(req, res, next) {
         })
     }
 
-    let salaud = [];
     async.eachSeries(arrayForm, function iteratee(item, callback) {
         //let currentItem = item
         setTimeout(() => {
             goSearch(item);
-            salaud.push(item);
             callback(false);
         }, 5000)
     }, () => {
-        console.log(salaud);
-        console.log(webPageArray);
         let resultData = [];
         webPageArray.forEach(htmlPage => {
             extractFromHtml(htmlPage, resultData);
