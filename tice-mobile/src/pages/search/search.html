@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar>
+    <ion-searchbar
+      [(ngModel)]="myInput"
+      [showCancelButton]="shouldShowCancel"
+      [placeholder] = placeholder
+      (ionInput)="onInput($event)"
+      (ionCancel)="onCancel($event)">
+    </ion-searchbar>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+ <ul>
+   <li *ngFor="let item of results">{{item.station}}</li>
+ </ul>
+</ion-content>
