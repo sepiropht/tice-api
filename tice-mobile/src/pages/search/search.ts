@@ -13,7 +13,6 @@ export class SearchPage {
   constructor(public navCtrl: NavController, public stationCode: StationCode) {
     console.log('hello dans search');
     this.array = stationCode.data;
-    console.log(this.array);
   }
   onInput(event) {
     let val = event.target.value.trim();
