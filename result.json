@@ -1,0 +1,895 @@
+{"a":"recherche_code","code":"1201","station":"C.E.S. Lycée","ligne":"401"}
+{"a":"recherche_code","code":"1010","station":"Agora","ligne":"401"}
+{"a":"recherche_code","code":"1345","station":"Cimetiere","ligne":"401"}
+{"a":"recherche_code","code":"1559","station":"Coquelicots","ligne":"401"}
+{"a":"recherche_code","code":"1369","station":"Donjon","ligne":"401"}
+{"a":"recherche_code","code":"1375","station":"Edouard Branly","ligne":"401"}
+{"a":"recherche_code","code":"1462","station":"Eperon","ligne":"401"}
+{"a":"recherche_code","code":"1105","station":"Evry Courcouronnes Centre RER","ligne":"401"}
+{"a":"recherche_code","code":"1070","station":"Gare du Bras de Fer RER","ligne":"401"}
+{"a":"recherche_code","code":"2267","station":"Gare RER","ligne":"401"}
+{"a":"recherche_code","code":"2259","station":"Général de Gaulle","ligne":"401"}
+{"a":"recherche_code","code":"1397","station":"Gustave Courbet","ligne":"401"}
+{"a":"recherche_code","code":"1371","station":"Guy Môquet","ligne":"401"}
+{"a":"recherche_code","code":"1560","station":"Hôpital manhès","ligne":"401"}
+{"a":"recherche_code","code":"1424","station":"Joliot - Curie","ligne":"401"}
+{"a":"recherche_code","code":"1140","station":"La Garenne","ligne":"401"}
+{"a":"recherche_code","code":"1503","station":"La Mare aux Moules","ligne":"401"}
+{"a":"recherche_code","code":"1580","station":"La Tour","ligne":"401"}
+{"a":"recherche_code","code":"1356","station":"Les Closeaux St Spire","ligne":"401"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"401"}
+{"a":"recherche_code","code":"1034","station":"Les Galants Courts","ligne":"401"}
+{"a":"recherche_code","code":"1004","station":"Les Miroirs","ligne":"401"}
+{"a":"recherche_code","code":"1124","station":"Les Quinconges","ligne":"401"}
+{"a":"recherche_code","code":"1126","station":"Les Remises","ligne":"401"}
+{"a":"recherche_code","code":"1487","station":"Louis Bourdet","ligne":"401"}
+{"a":"recherche_code","code":"1491","station":"Louis Tostain","ligne":"401"}
+{"a":"recherche_code","code":"1207","station":"Mairie","ligne":"401"}
+{"a":"recherche_code","code":"1197","station":"Marche","ligne":"401"}
+{"a":"recherche_code","code":"1121","station":"Marinière Lycée","ligne":"401"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"401"}
+{"a":"recherche_code","code":"1091","station":"Pasteur","ligne":"401"}
+{"a":"recherche_code","code":"1519","station":"Paul Delouvrier","ligne":"401"}
+{"a":"recherche_code","code":"1199","station":"Pierre Mendès-France","ligne":"401"}
+{"a":"recherche_code","code":"1531","station":"Piscine","ligne":"401"}
+{"a":"recherche_code","code":"1047","station":"Préfecture","ligne":"401"}
+{"a":"recherche_code","code":"1205","station":"Rond-Point de Fleury","ligne":"401"}
+{"a":"recherche_code","code":"1019","station":"Rond-Point Hopit","ligne":"401"}
+{"a":"recherche_code","code":"1556","station":"Rue Berlioz","ligne":"401"}
+{"a":"recherche_code","code":"1099","station":"Saint-Exupéry","ligne":"401"}
+{"a":"recherche_code","code":"1195","station":"Saint Hubert","ligne":"401"}
+{"a":"recherche_code","code":"2255","station":"Strathkelvin","ligne":"401"}
+{"a":"recherche_code","code":"1595","station":"Z.I. des Ciroliers","ligne":"401"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"401"}
+{"a":"recherche_code","code":"1007","station":"Agora","ligne":"401"}
+{"a":"recherche_code","code":"1094","station":"Aguado","ligne":"401"}
+{"a":"recherche_code","code":"1304","station":"Aristide BRIAND","ligne":"401"}
+{"a":"recherche_code","code":"1388","station":"Bois Clairs","ligne":"401"}
+{"a":"recherche_code","code":"1200","station":"C.E.S. Lycée","ligne":"401"}
+{"a":"recherche_code","code":"1344","station":"Cimetière","ligne":"401"}
+{"a":"recherche_code","code":"1186","station":"Coquelicots","ligne":"401"}
+{"a":"recherche_code","code":"1144","station":"Donjon","ligne":"401"}
+{"a":"recherche_code","code":"1374","station":"Edouard Branly","ligne":"401"}
+{"a":"recherche_code","code":"1461","station":"Eperon","ligne":"401"}
+{"a":"recherche_code","code":"1143","station":"Evry Courcouronnes Centre RER","ligne":"401"}
+{"a":"recherche_code","code":"1071","station":"Gare du Bras de Fer RER","ligne":"401"}
+{"a":"recherche_code","code":"2256","station":"Général de Gaulle","ligne":"401"}
+{"a":"recherche_code","code":"1396","station":"Gustave Courbet","ligne":"401"}
+{"a":"recherche_code","code":"1370","station":"Guy Môquet","ligne":"401"}
+{"a":"recherche_code","code":"1561","station":"Hôpital manhès","ligne":"401"}
+{"a":"recherche_code","code":"1423","station":"Joliot - Curie","ligne":"401"}
+{"a":"recherche_code","code":"1139","station":"La Garenne","ligne":"401"}
+{"a":"recherche_code","code":"1502","station":"La Mare aux Moules","ligne":"401"}
+{"a":"recherche_code","code":"1579","station":"La Tour","ligne":"401"}
+{"a":"recherche_code","code":"1355","station":"Les Closeaux St Spire","ligne":"401"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"401"}
+{"a":"recherche_code","code":"1033","station":"Les Galants Courts","ligne":"401"}
+{"a":"recherche_code","code":"1003","station":"Les Miroirs","ligne":"401"}
+{"a":"recherche_code","code":"1123","station":"Les Quinconges","ligne":"401"}
+{"a":"recherche_code","code":"1125","station":"Les Remises","ligne":"401"}
+{"a":"recherche_code","code":"1486","station":"Louis Bourdet","ligne":"401"}
+{"a":"recherche_code","code":"1490","station":"Louis Tostain","ligne":"401"}
+{"a":"recherche_code","code":"1206","station":"Mairie","ligne":"401"}
+{"a":"recherche_code","code":"1196","station":"Marche","ligne":"401"}
+{"a":"recherche_code","code":"1120","station":"Marinière Lycée","ligne":"401"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"401"}
+{"a":"recherche_code","code":"1090","station":"Pasteur","ligne":"401"}
+{"a":"recherche_code","code":"1518","station":"Paul Delouvrier","ligne":"401"}
+{"a":"recherche_code","code":"1198","station":"Pierre Mendès-France","ligne":"401"}
+{"a":"recherche_code","code":"1530","station":"Piscine","ligne":"401"}
+{"a":"recherche_code","code":"1046","station":"Préfecture","ligne":"401"}
+{"a":"recherche_code","code":"1204","station":"Rond-Point de Fleury","ligne":"401"}
+{"a":"recherche_code","code":"1020","station":"Rond-Point Hopit","ligne":"401"}
+{"a":"recherche_code","code":"1187","station":"Rue Berlioz","ligne":"401"}
+{"a":"recherche_code","code":"1098","station":"Saint-Exupéry","ligne":"401"}
+{"a":"recherche_code","code":"1194","station":"Saint Hubert","ligne":"401"}
+{"a":"recherche_code","code":"1568","station":"Strathkelvin","ligne":"401"}
+{"a":"recherche_code","code":"1596","station":"Z.I. des Ciroliers","ligne":"401"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"401"}
+{"a":"recherche_code","code":"1012","station":"Agora","ligne":"402"}
+{"a":"recherche_code","code":"2286","station":"Ambroise Croizat","ligne":"402"}
+{"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"402"}
+{"a":"recherche_code","code":"1023","station":"Bois de l'Epine RER","ligne":"402"}
+{"a":"recherche_code","code":"1331","station":"Cavignon","ligne":"402"}
+{"a":"recherche_code","code":"1601","station":"C.E.S. Albert Camus","ligne":"402"}
+{"a":"recherche_code","code":"1127","station":"Evry Courcouronnes Centre RER","ligne":"402"}
+{"a":"recherche_code","code":"1069","station":"Gare du Bras de Fer RER","ligne":"402"}
+{"a":"recherche_code","code":"1179","station":"Grigny Centre RER","ligne":"402"}
+{"a":"recherche_code","code":"1106","station":"Hopital Sud Fran","ligne":"402"}
+{"a":"recherche_code","code":"1646","station":"Jean Jaurès","ligne":"402"}
+{"a":"recherche_code","code":"1037","station":"Jean Renoir","ligne":"402"}
+{"a":"recherche_code","code":"1081","station":"Jean Rostand","ligne":"402"}
+{"a":"recherche_code","code":"1436","station":"La Demi-Lune","ligne":"402"}
+{"a":"recherche_code","code":"1562","station":"La Ferme Neuve","ligne":"402"}
+{"a":"recherche_code","code":"1650","station":"La Mare à Pilatre","ligne":"402"}
+{"a":"recherche_code","code":"1635","station":"La Serpente","ligne":"402"}
+{"a":"recherche_code","code":"1177","station":"Le Damier","ligne":"402"}
+{"a":"recherche_code","code":"1243","station":"Léon Cassé","ligne":"402"}
+{"a":"recherche_code","code":"2277","station":"L'Ermitage","ligne":"402"}
+{"a":"recherche_code","code":"1006","station":"Les Miroirs","ligne":"402"}
+{"a":"recherche_code","code":"1603","station":"Les Solstices","ligne":"402"}
+{"a":"recherche_code","code":"1049","station":"Lisière des deux Parcs","ligne":"402"}
+{"a":"recherche_code","code":"1045","station":"Lycée Georges Brassens","ligne":"402"}
+{"a":"recherche_code","code":"1224","station":"Mairie","ligne":"402"}
+{"a":"recherche_code","code":"1039","station":"Marchais Guesdon","ligne":"402"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"402"}
+{"a":"recherche_code","code":"2281","station":"Montconseil","ligne":"402"}
+{"a":"recherche_code","code":"1041","station":"Orme à Martin","ligne":"402"}
+{"a":"recherche_code","code":"1085","station":"Parc des Loges","ligne":"402"}
+{"a":"recherche_code","code":"1067","station":"Place de la Commune","ligne":"402"}
+{"a":"recherche_code","code":"1063","station":"Place Jean Malézieux","ligne":"402"}
+{"a":"recherche_code","code":"1538","station":"Pressoir Prompt","ligne":"402"}
+{"a":"recherche_code","code":"1611","station":"RN7 / LISSES","ligne":"402"}
+{"a":"recherche_code","code":"1569","station":"Rue Departement","ligne":"402"}
+{"a":"recherche_code","code":"1573","station":"Rue du Chene","ligne":"402"}
+{"a":"recherche_code","code":"1575","station":"Rue du Puits","ligne":"402"}
+{"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"402"}
+{"a":"recherche_code","code":"2269","station":"Tarterets","ligne":"402"}
+{"a":"recherche_code","code":"1052","station":"Temps des cerises SNECMA","ligne":"402"}
+{"a":"recherche_code","code":"1226","station":"Terminal David Douillet","ligne":"402"}
+{"a":"recherche_code","code":"1588","station":"Toussaint Louver","ligne":"402"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"402"}
+{"a":"recherche_code","code":"1008","station":"Agora","ligne":"402"}
+{"a":"recherche_code","code":"1303","station":"Ambroise Croizat","ligne":"402"}
+{"a":"recherche_code","code":"1545","station":"Auguste Plat","ligne":"402"}
+{"a":"recherche_code","code":"1021","station":"Bois de l'Epine RER","ligne":"402"}
+{"a":"recherche_code","code":"1332","station":"Cavignon","ligne":"402"}
+{"a":"recherche_code","code":"1602","station":"C.E.S. Albert Camus","ligne":"402"}
+{"a":"recherche_code","code":"1619","station":"Evry Courcouronnes Centre RER","ligne":"402"}
+{"a":"recherche_code","code":"1068","station":"Gare du Bras de Fer RER","ligne":"402"}
+{"a":"recherche_code","code":"1178","station":"Grigny Centre RER","ligne":"402"}
+{"a":"recherche_code","code":"1107","station":"Hopital Sud Fran","ligne":"402"}
+{"a":"recherche_code","code":"1647","station":"Jean Jaurès","ligne":"402"}
+{"a":"recherche_code","code":"1036","station":"Jean Renoir","ligne":"402"}
+{"a":"recherche_code","code":"1080","station":"Jean Rostand","ligne":"402"}
+{"a":"recherche_code","code":"1437","station":"La Demi-Lune","ligne":"402"}
+{"a":"recherche_code","code":"1563","station":"La Ferme Neuve","ligne":"402"}
+{"a":"recherche_code","code":"1651","station":"La Mare à Pilatre","ligne":"402"}
+{"a":"recherche_code","code":"1175","station":"La Serpente","ligne":"402"}
+{"a":"recherche_code","code":"1182","station":"La Treille","ligne":"402"}
+{"a":"recherche_code","code":"1176","station":"Le Damier","ligne":"402"}
+{"a":"recherche_code","code":"1242","station":"Léon Cassé","ligne":"402"}
+{"a":"recherche_code","code":"2278","station":"L'Ermitage","ligne":"402"}
+{"a":"recherche_code","code":"1005","station":"Les Miroirs","ligne":"402"}
+{"a":"recherche_code","code":"1183","station":"Les Solstices","ligne":"402"}
+{"a":"recherche_code","code":"1048","station":"Lisière des deux Parcs","ligne":"402"}
+{"a":"recherche_code","code":"1044","station":"Lycée Georges Brassens","ligne":"402"}
+{"a":"recherche_code","code":"2268","station":"Mairie","ligne":"402"}
+{"a":"recherche_code","code":"1038","station":"Marchais Guesdon","ligne":"402"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"402"}
+{"a":"recherche_code","code":"1652","station":"Montconseil","ligne":"402"}
+{"a":"recherche_code","code":"1040","station":"Orme à Martin","ligne":"402"}
+{"a":"recherche_code","code":"1084","station":"Parc des Loges","ligne":"402"}
+{"a":"recherche_code","code":"1066","station":"Place de la Commune","ligne":"402"}
+{"a":"recherche_code","code":"1062","station":"Place Jean Malézieux","ligne":"402"}
+{"a":"recherche_code","code":"1539","station":"Pressoir Prompt","ligne":"402"}
+{"a":"recherche_code","code":"1612","station":"RN7 / LISSES","ligne":"402"}
+{"a":"recherche_code","code":"2274","station":"Rue Departement","ligne":"402"}
+{"a":"recherche_code","code":"1574","station":"Rue du Chene","ligne":"402"}
+{"a":"recherche_code","code":"1576","station":"Rue du Puits","ligne":"402"}
+{"a":"recherche_code","code":"1654","station":"Salvador Allende","ligne":"402"}
+{"a":"recherche_code","code":"1217","station":"Tarterets","ligne":"402"}
+{"a":"recherche_code","code":"1051","station":"Temps des cerises SNECMA","ligne":"402"}
+{"a":"recherche_code","code":"1226","station":"Terminal David Douillet","ligne":"402"}
+{"a":"recherche_code","code":"1589","station":"Toussaint Louver","ligne":"402"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"402"}
+{"a":"recherche_code","code":"1008","station":"Agora","ligne":"403"}
+{"a":"recherche_code","code":"1095","station":"Aguado","ligne":"403"}
+{"a":"recherche_code","code":"1103","station":"Allée Clémenceau","ligne":"403"}
+{"a":"recherche_code","code":"1306","station":"Arnaud Massy","ligne":"403"}
+{"a":"recherche_code","code":"1314","station":"Avenue du Lac","ligne":"403"}
+{"a":"recherche_code","code":"1325","station":"Bois Briard","ligne":"403"}
+{"a":"recherche_code","code":"1210","station":"Bois des Coudraies","ligne":"403"}
+{"a":"recherche_code","code":"1096","station":"Champs-Elysées Gd Bourg","ligne":"403"}
+{"a":"recherche_code","code":"1097","station":"Champs-Elysées Gd Bourg","ligne":"403"}
+{"a":"recherche_code","code":"1622","station":"Evry Courcouronnes Centre RER","ligne":"403"}
+{"a":"recherche_code","code":"1624","station":"Evry Val de Seine","ligne":"403"}
+{"a":"recherche_code","code":"1386","station":"Gabriel Jaillard","ligne":"403"}
+{"a":"recherche_code","code":"1634","station":"Galignani","ligne":"403"}
+{"a":"recherche_code","code":"1222","station":"Gerville","ligne":"403"}
+{"a":"recherche_code","code":"1403","station":"Hippodrome","ligne":"403"}
+{"a":"recherche_code","code":"1409","station":"Imprimerie Nationale","ligne":"403"}
+{"a":"recherche_code","code":"1411","station":"Jean Mermoz","ligne":"403"}
+{"a":"recherche_code","code":"1422","station":"Joliot - Curie","ligne":"403"}
+{"a":"recherche_code","code":"1428","station":"Jules Valles","ligne":"403"}
+{"a":"recherche_code","code":"1434","station":"La Croix Blanche","ligne":"403"}
+{"a":"recherche_code","code":"1372","station":"L'Ecoute s'il Pleut","ligne":"403"}
+{"a":"recherche_code","code":"1109","station":"Le Parc","ligne":"403"}
+{"a":"recherche_code","code":"1025","station":"Les Coccinelles","ligne":"403"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"403"}
+{"a":"recherche_code","code":"1469","station":"Les Lilas","ligne":"403"}
+{"a":"recherche_code","code":"1002","station":"Les Miroirs","ligne":"403"}
+{"a":"recherche_code","code":"1472","station":"Les Osiers","ligne":"403"}
+{"a":"recherche_code","code":"1474","station":"Les Petits Bois","ligne":"403"}
+{"a":"recherche_code","code":"1124","station":"Les Quinconges","ligne":"403"}
+{"a":"recherche_code","code":"1126","station":"Les Remises","ligne":"403"}
+{"a":"recherche_code","code":"1482","station":"Les Trois Parts","ligne":"403"}
+{"a":"recherche_code","code":"1223","station":"Mairie","ligne":"403"}
+{"a":"recherche_code","code":"1121","station":"Marinière Lycée","ligne":"403"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"403"}
+{"a":"recherche_code","code":"1507","station":"ND République","ligne":"403"}
+{"a":"recherche_code","code":"1074","station":"Nouveaux Champs","ligne":"403"}
+{"a":"recherche_code","code":"1092","station":"Ratisbonne","ligne":"403"}
+{"a":"recherche_code","code":"1093","station":"Ratisbonne","ligne":"403"}
+{"a":"recherche_code","code":"1111","station":"Rue d'Antin","ligne":"403"}
+{"a":"recherche_code","code":"1557","station":"Rue des Carrières","ligne":"403"}
+{"a":"recherche_code","code":"1598","station":"Rue des Meillottes","ligne":"403"}
+{"a":"recherche_code","code":"1570","station":"Rue du Clos","ligne":"403"}
+{"a":"recherche_code","code":"1581","station":"Rue Jean de la Fontaine","ligne":"403"}
+{"a":"recherche_code","code":"1101","station":"Saint-Exupéry","ligne":"403"}
+{"a":"recherche_code","code":"1655","station":"Saint Guénault","ligne":"403"}
+{"a":"recherche_code","code":"1608","station":"Soisy s/Seine Collège","ligne":"403"}
+{"a":"recherche_code","code":"1221","station":"Soisy s/Seine - Les Meillottes","ligne":"403"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"403"}
+{"a":"recherche_code","code":"1007","station":"Agora","ligne":"403"}
+{"a":"recherche_code","code":"1094","station":"Aguado","ligne":"403"}
+{"a":"recherche_code","code":"1102","station":"Allée Clémenceau","ligne":"403"}
+{"a":"recherche_code","code":"1307","station":"Arnaud Massy","ligne":"403"}
+{"a":"recherche_code","code":"1315","station":"Avenue du Lac","ligne":"403"}
+{"a":"recherche_code","code":"1326","station":"Bois Briard","ligne":"403"}
+{"a":"recherche_code","code":"1209","station":"Bois des Coudraies","ligne":"403"}
+{"a":"recherche_code","code":"1118","station":"Evry Courcouronnes Centre RER","ligne":"403"}
+{"a":"recherche_code","code":"1625","station":"Evry Val de Seine","ligne":"403"}
+{"a":"recherche_code","code":"1387","station":"Gabriel Jaillard","ligne":"403"}
+{"a":"recherche_code","code":"1220","station":"Galignani","ligne":"403"}
+{"a":"recherche_code","code":"1639","station":"Gerville","ligne":"403"}
+{"a":"recherche_code","code":"1393","station":"Grand Veneur","ligne":"403"}
+{"a":"recherche_code","code":"1404","station":"Hippodrome","ligne":"403"}
+{"a":"recherche_code","code":"1406","station":"Hôtel de Ville","ligne":"403"}
+{"a":"recherche_code","code":"1409","station":"Imprimerie Nationale","ligne":"403"}
+{"a":"recherche_code","code":"1412","station":"Jean Mermoz","ligne":"403"}
+{"a":"recherche_code","code":"1421","station":"Joliot - Curie","ligne":"403"}
+{"a":"recherche_code","code":"1435","station":"La Croix Blanche","ligne":"403"}
+{"a":"recherche_code","code":"1373","station":"L'Ecoute s'il Pleut","ligne":"403"}
+{"a":"recherche_code","code":"1108","station":"Le Parc","ligne":"403"}
+{"a":"recherche_code","code":"1464","station":"Les Coccinelles","ligne":"403"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"403"}
+{"a":"recherche_code","code":"1003","station":"Les Miroirs","ligne":"403"}
+{"a":"recherche_code","code":"1473","station":"Les Osiers","ligne":"403"}
+{"a":"recherche_code","code":"1475","station":"Les Petits Bois","ligne":"403"}
+{"a":"recherche_code","code":"1123","station":"Les Quinconges","ligne":"403"}
+{"a":"recherche_code","code":"1125","station":"Les Remises","ligne":"403"}
+{"a":"recherche_code","code":"1483","station":"Les Trois Parts","ligne":"403"}
+{"a":"recherche_code","code":"1120","station":"Marinière Lycée","ligne":"403"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"403"}
+{"a":"recherche_code","code":"1073","station":"Nouveaux Champs","ligne":"403"}
+{"a":"recherche_code","code":"1362","station":"Place du Couvent Mairie","ligne":"403"}
+{"a":"recherche_code","code":"1092","station":"Ratisbonne","ligne":"403"}
+{"a":"recherche_code","code":"1110","station":"Rue d'Antin","ligne":"403"}
+{"a":"recherche_code","code":"1582","station":"Rue de l'Ermitage","ligne":"403"}
+{"a":"recherche_code","code":"1018","station":"Rue du Clos","ligne":"403"}
+{"a":"recherche_code","code":"1100","station":"Saint-Exupéry","ligne":"403"}
+{"a":"recherche_code","code":"1128","station":"Saint Guénault","ligne":"403"}
+{"a":"recherche_code","code":"1608","station":"Soisy s/Seine Collège","ligne":"403"}
+{"a":"recherche_code","code":"1221","station":"Soisy s/Seine - Les Meillottes","ligne":"403"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"403"}
+{"a":"recherche_code","code":"1009","station":"Agora","ligne":"404"}
+{"a":"recherche_code","code":"1094","station":"Aguado","ligne":"404"}
+{"a":"recherche_code","code":"1102","station":"Allée Clémenceau","ligne":"404"}
+{"a":"recherche_code","code":"1022","station":"Bois de l'Epine RER","ligne":"404"}
+{"a":"recherche_code","code":"1145","station":"Chemin de la Joute","ligne":"404"}
+{"a":"recherche_code","code":"1340","station":"Chemin du Vexin","ligne":"404"}
+{"a":"recherche_code","code":"1342","station":"Chemin Vert - Piscine","ligne":"404"}
+{"a":"recherche_code","code":"1129","station":"Collège Paul Fort","ligne":"404"}
+{"a":"recherche_code","code":"1118","station":"Evry Courcouronnes Centre RER","ligne":"404"}
+{"a":"recherche_code","code":"1071","station":"Gare du Bras de Fer RER","ligne":"404"}
+{"a":"recherche_code","code":"1035","station":"Gaspéri","ligne":"404"}
+{"a":"recherche_code","code":"1413","station":"Jean Mermoz","ligne":"404"}
+{"a":"recherche_code","code":"1060","station":"JM.Djibaou","ligne":"404"}
+{"a":"recherche_code","code":"1140","station":"La Garenne","ligne":"404"}
+{"a":"recherche_code","code":"1131","station":"Le Lac","ligne":"404"}
+{"a":"recherche_code","code":"1108","station":"Le Parc","ligne":"404"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"404"}
+{"a":"recherche_code","code":"1001","station":"Les Miroirs","ligne":"404"}
+{"a":"recherche_code","code":"1038","station":"Marchais Guesdon","ligne":"404"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"404"}
+{"a":"recherche_code","code":"1073","station":"Nouveaux Champs","ligne":"404"}
+{"a":"recherche_code","code":"1043","station":"Orme à Martin","ligne":"404"}
+{"a":"recherche_code","code":"1090","station":"Pasteur","ligne":"404"}
+{"a":"recherche_code","code":"1520","station":"Petite Montagne","ligne":"404"}
+{"a":"recherche_code","code":"1540","station":"Petite Montagne Sud","ligne":"404"}
+{"a":"recherche_code","code":"1110","station":"Rue d'Antin","ligne":"404"}
+{"a":"recherche_code","code":"1098","station":"Saint-Exupéry","ligne":"404"}
+{"a":"recherche_code","code":"1133","station":"Thorigny","ligne":"404"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"404"}
+{"a":"recherche_code","code":"1010","station":"Agora","ligne":"404"}
+{"a":"recherche_code","code":"1095","station":"Aguado","ligne":"404"}
+{"a":"recherche_code","code":"1103","station":"Allée Clémenceau","ligne":"404"}
+{"a":"recherche_code","code":"1597","station":"Bois de l'Epine RER","ligne":"404"}
+{"a":"recherche_code","code":"1146","station":"Chemin de la Joute","ligne":"404"}
+{"a":"recherche_code","code":"1341","station":"Chemin du Vexin","ligne":"404"}
+{"a":"recherche_code","code":"1343","station":"Chemin Vert - Piscine","ligne":"404"}
+{"a":"recherche_code","code":"1130","station":"Collège Paul Fort","ligne":"404"}
+{"a":"recherche_code","code":"1622","station":"Evry Courcouronnes Centre RER","ligne":"404"}
+{"a":"recherche_code","code":"1070","station":"Gare du Bras de Fer RER","ligne":"404"}
+{"a":"recherche_code","code":"1115","station":"Gaspéri","ligne":"404"}
+{"a":"recherche_code","code":"1414","station":"Jean Mermoz","ligne":"404"}
+{"a":"recherche_code","code":"1059","station":"JM.Djibaou","ligne":"404"}
+{"a":"recherche_code","code":"1428","station":"Jules Valles","ligne":"404"}
+{"a":"recherche_code","code":"1139","station":"La Garenne","ligne":"404"}
+{"a":"recherche_code","code":"1132","station":"Le Lac","ligne":"404"}
+{"a":"recherche_code","code":"1109","station":"Le Parc","ligne":"404"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"404"}
+{"a":"recherche_code","code":"1004","station":"Les Miroirs","ligne":"404"}
+{"a":"recherche_code","code":"1039","station":"Marchais Guesdon","ligne":"404"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"404"}
+{"a":"recherche_code","code":"1074","station":"Nouveaux Champs","ligne":"404"}
+{"a":"recherche_code","code":"1042","station":"Orme à Martin","ligne":"404"}
+{"a":"recherche_code","code":"1091","station":"Pasteur","ligne":"404"}
+{"a":"recherche_code","code":"1521","station":"Petite Montagne","ligne":"404"}
+{"a":"recherche_code","code":"1541","station":"Petite Montagne Sud","ligne":"404"}
+{"a":"recherche_code","code":"1111","station":"Rue d'Antin","ligne":"404"}
+{"a":"recherche_code","code":"1099","station":"Saint-Exupéry","ligne":"404"}
+{"a":"recherche_code","code":"1134","station":"Thorigny","ligne":"404"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"404"}
+{"a":"recherche_code","code":"1300","station":"8 mai 1945","ligne":"405"}
+{"a":"recherche_code","code":"1011","station":"Agora","ligne":"405"}
+{"a":"recherche_code","code":"1086","station":"Aunettes L.E.P.","ligne":"405"}
+{"a":"recherche_code","code":"1022","station":"Bois de l'Epine RER","ligne":"405"}
+{"a":"recherche_code","code":"1078","station":"Camille Guérin","ligne":"405"}
+{"a":"recherche_code","code":"2276","station":"Centre Commercial","ligne":"405"}
+{"a":"recherche_code","code":"1336","station":"Champagne","ligne":"405"}
+{"a":"recherche_code","code":"1146","station":"Chemin de la Joute","ligne":"405"}
+{"a":"recherche_code","code":"1349","station":"Cimetière","ligne":"405"}
+{"a":"recherche_code","code":"1053","station":"Clinique","ligne":"405"}
+{"a":"recherche_code","code":"1613","station":"Complexe Sportif","ligne":"405"}
+{"a":"recherche_code","code":"1360","station":"Cottage","ligne":"405"}
+{"a":"recherche_code","code":"1364","station":"Dame du Lac","ligne":"405"}
+{"a":"recherche_code","code":"1640","station":"Evry Courcouronnes Centre RER","ligne":"405"}
+{"a":"recherche_code","code":"1028","station":"Exona","ligne":"405"}
+{"a":"recherche_code","code":"1246","station":"Félicien Rops","ligne":"405"}
+{"a":"recherche_code","code":"2261","station":"Gare RER","ligne":"405"}
+{"a":"recherche_code","code":"1115","station":"Gaspéri","ligne":"405"}
+{"a":"recherche_code","code":"2256","station":"Général de Gaulle","ligne":"405"}
+{"a":"recherche_code","code":"1396","station":"Gustave Courbet","ligne":"405"}
+{"a":"recherche_code","code":"1402","station":"Henri Matisse","ligne":"405"}
+{"a":"recherche_code","code":"1059","station":"JM.Djibaou","ligne":"405"}
+{"a":"recherche_code","code":"1428","station":"Jules Valles","ligne":"405"}
+{"a":"recherche_code","code":"1449","station":"L'Eglantier","ligne":"405"}
+{"a":"recherche_code","code":"2275","station":"Léon Blum","ligne":"405"}
+{"a":"recherche_code","code":"1242","station":"Léon Cassé","ligne":"405"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"405"}
+{"a":"recherche_code","code":"1400","station":"Les Hauts Cornuts","ligne":"405"}
+{"a":"recherche_code","code":"1470","station":"Les Longaines","ligne":"405"}
+{"a":"recherche_code","code":"1142","station":"Les Malines","ligne":"405"}
+{"a":"recherche_code","code":"1004","station":"Les Miroirs","ligne":"405"}
+{"a":"recherche_code","code":"1478","station":"Les Peupliers","ligne":"405"}
+{"a":"recherche_code","code":"1620","station":"Les Tours","ligne":"405"}
+{"a":"recherche_code","code":"1488","station":"Louis Drevet","ligne":"405"}
+{"a":"recherche_code","code":"2279","station":"Lycée","ligne":"405"}
+{"a":"recherche_code","code":"1057","station":"Lycée Parc des Loges","ligne":"405"}
+{"a":"recherche_code","code":"1657","station":"Mairie","ligne":"405"}
+{"a":"recherche_code","code":"1496","station":"Maison de l'Enfance","ligne":"405"}
+{"a":"recherche_code","code":"1015","station":"Marques Avenue","ligne":"405"}
+{"a":"recherche_code","code":"1082","station":"Maurice Genevoix","ligne":"405"}
+{"a":"recherche_code","code":"1504","station":"MJC","ligne":"405"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"405"}
+{"a":"recherche_code","code":"2288","station":"Pablo Picasso","ligne":"405"}
+{"a":"recherche_code","code":"1512","station":"Parc Chantemerle","ligne":"405"}
+{"a":"recherche_code","code":"2284","station":"Parking Crêté","ligne":"405"}
+{"a":"recherche_code","code":"1521","station":"Petite Montagne","ligne":"405"}
+{"a":"recherche_code","code":"1658","station":"Salvador Allende","ligne":"405"}
+{"a":"recherche_code","code":"2283","station":"Sous-Préfecture","ligne":"405"}
+{"a":"recherche_code","code":"1586","station":"Square","ligne":"405"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"405"}
+{"a":"recherche_code","code":"1301","station":"8 mai 1945","ligne":"405"}
+{"a":"recherche_code","code":"1009","station":"Agora","ligne":"405"}
+{"a":"recherche_code","code":"1087","station":"Aunettes L.E.P.","ligne":"405"}
+{"a":"recherche_code","code":"1597","station":"Bois de l'Epine RER","ligne":"405"}
+{"a":"recherche_code","code":"1079","station":"Camille Guérin","ligne":"405"}
+{"a":"recherche_code","code":"1211","station":"Centre Commercial","ligne":"405"}
+{"a":"recherche_code","code":"1337","station":"Champagne","ligne":"405"}
+{"a":"recherche_code","code":"1145","station":"Chemin de la Joute","ligne":"405"}
+{"a":"recherche_code","code":"1350","station":"Cimetière","ligne":"405"}
+{"a":"recherche_code","code":"1054","station":"Clinique","ligne":"405"}
+{"a":"recherche_code","code":"1357","station":"Collège Senghor","ligne":"405"}
+{"a":"recherche_code","code":"1147","station":"Complexe Sportif","ligne":"405"}
+{"a":"recherche_code","code":"1361","station":"Cottage","ligne":"405"}
+{"a":"recherche_code","code":"1363","station":"Dame du Lac","ligne":"405"}
+{"a":"recherche_code","code":"1117","station":"Evry Courcouronnes Centre RER","ligne":"405"}
+{"a":"recherche_code","code":"1027","station":"Exona","ligne":"405"}
+{"a":"recherche_code","code":"1614","station":"Félicien Rops","ligne":"405"}
+{"a":"recherche_code","code":"2266","station":"Gare RER","ligne":"405"}
+{"a":"recherche_code","code":"1035","station":"Gaspéri","ligne":"405"}
+{"a":"recherche_code","code":"1390","station":"Gauguin","ligne":"405"}
+{"a":"recherche_code","code":"2259","station":"Général de Gaulle","ligne":"405"}
+{"a":"recherche_code","code":"1397","station":"Gustave Courbet","ligne":"405"}
+{"a":"recherche_code","code":"1013","station":"Henri Dunant","ligne":"405"}
+{"a":"recherche_code","code":"1060","station":"JM.Djibaou","ligne":"405"}
+{"a":"recherche_code","code":"1450","station":"L'Eglantier","ligne":"405"}
+{"a":"recherche_code","code":"1243","station":"Léon Cassé","ligne":"405"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"405"}
+{"a":"recherche_code","code":"1401","station":"Les Hauts Cornuts","ligne":"405"}
+{"a":"recherche_code","code":"1471","station":"Les Longaines","ligne":"405"}
+{"a":"recherche_code","code":"1141","station":"Les Malines","ligne":"405"}
+{"a":"recherche_code","code":"1001","station":"Les Miroirs","ligne":"405"}
+{"a":"recherche_code","code":"1479","station":"Les Peupliers","ligne":"405"}
+{"a":"recherche_code","code":"2282","station":"Les Tours","ligne":"405"}
+{"a":"recherche_code","code":"1489","station":"Louis Drevet","ligne":"405"}
+{"a":"recherche_code","code":"2280","station":"Lycée","ligne":"405"}
+{"a":"recherche_code","code":"1058","station":"Lycée Parc des Loges","ligne":"405"}
+{"a":"recherche_code","code":"1656","station":"Mairie","ligne":"405"}
+{"a":"recherche_code","code":"1497","station":"Maison de l'Enfance","ligne":"405"}
+{"a":"recherche_code","code":"1014","station":"Marques Avenue","ligne":"405"}
+{"a":"recherche_code","code":"1083","station":"Maurice Genevoix","ligne":"405"}
+{"a":"recherche_code","code":"1505","station":"MJC","ligne":"405"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"405"}
+{"a":"recherche_code","code":"1513","station":"Parc Chantemerle","ligne":"405"}
+{"a":"recherche_code","code":"2285","station":"Parking Crêté","ligne":"405"}
+{"a":"recherche_code","code":"1520","station":"Petite Montagne","ligne":"405"}
+{"a":"recherche_code","code":"2287","station":"Salvador Allende","ligne":"405"}
+{"a":"recherche_code","code":"1621","station":"Sous-Préfecture","ligne":"405"}
+{"a":"recherche_code","code":"1587","station":"Square","ligne":"405"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"405"}
+{"a":"recherche_code","code":"1024","station":"Bois de l'Epine RER","ligne":"406"}
+{"a":"recherche_code","code":"1421","station":"Joliot - Curie","ligne":"406"}
+{"a":"recherche_code","code":"1536","station":"Pomponne","ligne":"406"}
+{"a":"recherche_code","code":"1659","station":"ZA Bois de L'Epine","ligne":"406"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"406"}
+{"a":"recherche_code","code":"1024","station":"Bois de l'Epine RER","ligne":"406"}
+{"a":"recherche_code","code":"1537","station":"Pomponne","ligne":"406"}
+{"a":"recherche_code","code":"1659","station":"ZA Bois de L'Epine","ligne":"406"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"406"}
+{"a":"recherche_code","code":"1009","station":"Agora","ligne":"407"}
+{"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"407"}
+{"a":"recherche_code","code":"1116","station":"Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1312","station":"Avenue de l'Essonne","ligne":"407"}
+{"a":"recherche_code","code":"1599","station":"Bois Guillaume","ligne":"407"}
+{"a":"recherche_code","code":"1606","station":"CC Ferme du Temple","ligne":"407"}
+{"a":"recherche_code","code":"1604","station":"Centre Cial les Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1097","station":"Champs-Elysées Gd Bourg","ligne":"407"}
+{"a":"recherche_code","code":"1365","station":"Daumesnil","ligne":"407"}
+{"a":"recherche_code","code":"1616","station":"Edmond Bonté","ligne":"407"}
+{"a":"recherche_code","code":"1117","station":"Evry Courcouronnes Centre RER","ligne":"407"}
+{"a":"recherche_code","code":"1631","station":"Fauvettes","ligne":"407"}
+{"a":"recherche_code","code":"1555","station":"Gare Val de Ris RER","ligne":"407"}
+{"a":"recherche_code","code":"1398","station":"Gutenberg","ligne":"407"}
+{"a":"recherche_code","code":"1378","station":"Hameaux de la Roche","ligne":"407"}
+{"a":"recherche_code","code":"1440","station":"La Fontaine","ligne":"407"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"407"}
+{"a":"recherche_code","code":"1001","station":"Les Miroirs","ligne":"407"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"407"}
+{"a":"recherche_code","code":"1073","station":"Nouveaux Champs","ligne":"407"}
+{"a":"recherche_code","code":"1061","station":"Place des Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1093","station":"Ratisbonne","ligne":"407"}
+{"a":"recherche_code","code":"1553","station":"Route de Mennecy","ligne":"407"}
+{"a":"recherche_code","code":"1664","station":"Sacré-Coeur","ligne":"407"}
+{"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"407"}
+{"a":"recherche_code","code":"1050","station":"Yerres Louise Michel","ligne":"407"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"407"}
+{"a":"recherche_code","code":"1011","station":"Agora","ligne":"407"}
+{"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"407"}
+{"a":"recherche_code","code":"1116","station":"Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1312","station":"Avenue de l'Essonne","ligne":"407"}
+{"a":"recherche_code","code":"1600","station":"Bois Guillaume","ligne":"407"}
+{"a":"recherche_code","code":"1606","station":"CC Ferme du Temple","ligne":"407"}
+{"a":"recherche_code","code":"1095","station":"Aguado","ligne":"401"}
+{"a":"recherche_code","code":"1604","station":"Centre Cial les Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1096","station":"Champs-Elysées Gd Bourg","ligne":"407"}
+{"a":"recherche_code","code":"1366","station":"Daumesnil","ligne":"407"}
+{"a":"recherche_code","code":"1605","station":"Centre Cial les Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1617","station":"Edmond Bonté","ligne":"407"}
+{"a":"recherche_code","code":"1640","station":"Evry Courcouronnes Centre RER","ligne":"407"}
+{"a":"recherche_code","code":"1631","station":"Fauvettes","ligne":"407"}
+{"a":"recherche_code","code":"1555","station":"Gare Val de Ris RER","ligne":"407"}
+{"a":"recherche_code","code":"1399","station":"Gutenberg","ligne":"407"}
+{"a":"recherche_code","code":"1428","station":"Jules Valles","ligne":"407"}
+{"a":"recherche_code","code":"1441","station":"La Fontaine","ligne":"407"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"407"}
+{"a":"recherche_code","code":"1002","station":"Les Miroirs","ligne":"407"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"407"}
+{"a":"recherche_code","code":"1074","station":"Nouveaux Champs","ligne":"407"}
+{"a":"recherche_code","code":"1660","station":"Place des Aunettes","ligne":"407"}
+{"a":"recherche_code","code":"1092","station":"Ratisbonne","ligne":"407"}
+{"a":"recherche_code","code":"1554","station":"Route de Mennecy","ligne":"407"}
+{"a":"recherche_code","code":"1664","station":"Sacré-Coeur","ligne":"407"}
+{"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"407"}
+{"a":"recherche_code","code":"1661","station":"Yerres Louise Michel","ligne":"407"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"407"}
+{"a":"recherche_code","code":"1189","station":"Beauvoir","ligne":"408"}
+{"a":"recherche_code","code":"1233","station":"Blaise Pascal -","ligne":"408"}
+{"a":"recherche_code","code":"1072","station":"Bras de Fer RER","ligne":"408"}
+{"a":"recherche_code","code":"1330","station":"Bonhomme en Pierre","ligne":"408"}
+{"a":"recherche_code","code":"1096","station":"Champs-Elysées Gd Bourg","ligne":"408"}
+{"a":"recherche_code","code":"1054","station":"Clinique","ligne":"408"}
+{"a":"recherche_code","code":"1227","station":"College Paul Elu","ligne":"408"}
+{"a":"recherche_code","code":"1239","station":"Evry-Courcouronn","ligne":"408"}
+{"a":"recherche_code","code":"1627","station":"Evry Val de Seine","ligne":"408"}
+{"a":"recherche_code","code":"1237","station":"Facteur Cheval","ligne":"408"}
+{"a":"recherche_code","code":"1633","station":"Foyer Club","ligne":"408"}
+{"a":"recherche_code","code":"1399","station":"Gutenberg","ligne":"408"}
+{"a":"recherche_code","code":"1229","station":"Institut de Biol","ligne":"408"}
+{"a":"recherche_code","code":"1427","station":"Jules Vallès","ligne":"408"}
+{"a":"recherche_code","code":"1452","station":"Le Grippet","ligne":"408"}
+{"a":"recherche_code","code":"1108","station":"Le Parc","ligne":"408"}
+{"a":"recherche_code","code":"1235","station":"Les Arenes","ligne":"408"}
+{"a":"recherche_code","code":"1481","station":"Les Tourelles","ligne":"408"}
+{"a":"recherche_code","code":"1666","station":"Mairie Annexe","ligne":"408"}
+{"a":"recherche_code","code":"1510","station":"Nowy Targ","ligne":"408"}
+{"a":"recherche_code","code":"1083","station":"Maurice Genevoix","ligne":"408"}
+{"a":"recherche_code","code":"1668","station":"Patton - Mousseau","ligne":"408"}
+{"a":"recherche_code","code":"1523","station":"Petit Bois","ligne":"408"}
+{"a":"recherche_code","code":"1092","station":"Ratisbonne","ligne":"408"}
+{"a":"recherche_code","code":"1549","station":"Rosenberg","ligne":"408"}
+{"a":"recherche_code","code":"1551","station":"Rossini","ligne":"408"}
+{"a":"recherche_code","code":"1110","station":"Rue d'Antin","ligne":"408"}
+{"a":"recherche_code","code":"1231","station":"Sabatier","ligne":"408"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"408"}
+{"a":"recherche_code","code":"1188","station":"Beauvoir","ligne":"408"}
+{"a":"recherche_code","code":"1234","station":"Blaise Pascal -","ligne":"408"}
+{"a":"recherche_code","code":"1636","station":"Bras de Fer RER","ligne":"408"}
+{"a":"recherche_code","code":"1329","station":"Bonhomme en Pierre","ligne":"408"}
+{"a":"recherche_code","code":"1097","station":"Champs-Elysées Gd Bourg","ligne":"408"}
+{"a":"recherche_code","code":"1338","station":"Champtier du Coq","ligne":"408"}
+{"a":"recherche_code","code":"1228","station":"College Paul Elu","ligne":"408"}
+{"a":"recherche_code","code":"1053","station":"Clinique","ligne":"408"}
+{"a":"recherche_code","code":"1240","station":"Evry-Courcouronn","ligne":"408"}
+{"a":"recherche_code","code":"1626","station":"Evry Val de Seine","ligne":"408"}
+{"a":"recherche_code","code":"1238","station":"Facteur Cheval","ligne":"408"}
+{"a":"recherche_code","code":"1632","station":"Foyer Club","ligne":"408"}
+{"a":"recherche_code","code":"1398","station":"Gutenberg","ligne":"408"}
+{"a":"recherche_code","code":"1230","station":"Institut de Biol","ligne":"408"}
+{"a":"recherche_code","code":"1451","station":"Le Grippet","ligne":"408"}
+{"a":"recherche_code","code":"1429","station":"Jules Vallès","ligne":"408"}
+{"a":"recherche_code","code":"1109","station":"Le Parc","ligne":"408"}
+{"a":"recherche_code","code":"1236","station":"Les Arenes","ligne":"408"}
+{"a":"recherche_code","code":"1480","station":"Les Tourelles","ligne":"408"}
+{"a":"recherche_code","code":"1665","station":"Mairie Annexe","ligne":"408"}
+{"a":"recherche_code","code":"1509","station":"Nowy Targ","ligne":"408"}
+{"a":"recherche_code","code":"1082","station":"Maurice Genevoix","ligne":"408"}
+{"a":"recherche_code","code":"1667","station":"Patton - Mousseau","ligne":"408"}
+{"a":"recherche_code","code":"1522","station":"Petit Bois","ligne":"408"}
+{"a":"recherche_code","code":"1093","station":"Ratisbonne","ligne":"408"}
+{"a":"recherche_code","code":"1548","station":"Rosenberg","ligne":"408"}
+{"a":"recherche_code","code":"1550","station":"Rossini","ligne":"408"}
+{"a":"recherche_code","code":"1111","station":"Rue d'Antin","ligne":"408"}
+{"a":"recherche_code","code":"1232","station":"Sabatier","ligne":"408"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"408"}
+{"a":"recherche_code","code":"1323","station":"Bois Bailleul","ligne":"409"}
+{"a":"recherche_code","code":"1026","station":"Centre Commercial","ligne":"409"}
+{"a":"recherche_code","code":"1337","station":"Champagne","ligne":"409"}
+{"a":"recherche_code","code":"1341","station":"Chemin du Vexin","ligne":"409"}
+{"a":"recherche_code","code":"1669","station":"Ferme des Folies","ligne":"409"}
+{"a":"recherche_code","code":"1147","station":"Complexe Sportif","ligne":"409"}
+{"a":"recherche_code","code":"1407","station":"IKEA","ligne":"409"}
+{"a":"recherche_code","code":"1503","station":"La Mare aux Moules","ligne":"409"}
+{"a":"recherche_code","code":"1138","station":"La Vanne","ligne":"409"}
+{"a":"recherche_code","code":"1450","station":"L'Eglantier","ligne":"409"}
+{"a":"recherche_code","code":"1671","station":"Léonard de Vinci","ligne":"409"}
+{"a":"recherche_code","code":"1455","station":"Le Lunain","ligne":"409"}
+{"a":"recherche_code","code":"1459","station":"Les Bocages","ligne":"409"}
+{"a":"recherche_code","code":"1032","station":"Les Brateaux","ligne":"409"}
+{"a":"recherche_code","code":"1141","station":"Les Malines","ligne":"409"}
+{"a":"recherche_code","code":"1356","station":"Les Closeaux St Spire","ligne":"409"}
+{"a":"recherche_code","code":"1479","station":"Les Peupliers","ligne":"409"}
+{"a":"recherche_code","code":"1674","station":"Les Quinconges","ligne":"409"}
+{"a":"recherche_code","code":"1126","station":"Les Remises","ligne":"409"}
+{"a":"recherche_code","code":"1484","station":"Les Vergers","ligne":"409"}
+{"a":"recherche_code","code":"1656","station":"Mairie","ligne":"409"}
+{"a":"recherche_code","code":"1497","station":"Maison de l'Enfance","ligne":"409"}
+{"a":"recherche_code","code":"1121","station":"Marinière Lycée","ligne":"409"}
+{"a":"recherche_code","code":"1525","station":"Petits Champs","ligne":"409"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"409"}
+{"a":"recherche_code","code":"1595","station":"Z.I. des Ciroliers","ligne":"409"}
+{"a":"recherche_code","code":"1324","station":"Bois Bailleul","ligne":"409"}
+{"a":"recherche_code","code":"1607","station":"Centre Commercial","ligne":"409"}
+{"a":"recherche_code","code":"1336","station":"Champagne","ligne":"409"}
+{"a":"recherche_code","code":"1352","station":"Clément Ader","ligne":"409"}
+{"a":"recherche_code","code":"1340","station":"Chemin du Vexin","ligne":"409"}
+{"a":"recherche_code","code":"1670","station":"Ferme des Folies","ligne":"409"}
+{"a":"recherche_code","code":"1613","station":"Complexe Sportif","ligne":"409"}
+{"a":"recherche_code","code":"1408","station":"IKEA","ligne":"409"}
+{"a":"recherche_code","code":"1502","station":"La Mare aux Moules","ligne":"409"}
+{"a":"recherche_code","code":"1449","station":"L'Eglantier","ligne":"409"}
+{"a":"recherche_code","code":"1137","station":"La Vanne","ligne":"409"}
+{"a":"recherche_code","code":"1456","station":"Le Lunain","ligne":"409"}
+{"a":"recherche_code","code":"1672","station":"Léonard de Vinci","ligne":"409"}
+{"a":"recherche_code","code":"1460","station":"Les Bocages","ligne":"409"}
+{"a":"recherche_code","code":"1355","station":"Les Closeaux St Spire","ligne":"409"}
+{"a":"recherche_code","code":"1031","station":"Les Brateaux","ligne":"409"}
+{"a":"recherche_code","code":"1142","station":"Les Malines","ligne":"409"}
+{"a":"recherche_code","code":"1478","station":"Les Peupliers","ligne":"409"}
+{"a":"recherche_code","code":"1673","station":"Les Quinconges","ligne":"409"}
+{"a":"recherche_code","code":"1125","station":"Les Remises","ligne":"409"}
+{"a":"recherche_code","code":"1485","station":"Les Vergers","ligne":"409"}
+{"a":"recherche_code","code":"1657","station":"Mairie","ligne":"409"}
+{"a":"recherche_code","code":"1496","station":"Maison de l'Enfance","ligne":"409"}
+{"a":"recherche_code","code":"1120","station":"Marinière Lycée","ligne":"409"}
+{"a":"recherche_code","code":"1524","station":"Petits Champs","ligne":"409"}
+{"a":"recherche_code","code":"1596","station":"Z.I. des Ciroliers","ligne":"409"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"409"}
+{"a":"recherche_code","code":"1320","station":"Beau Rivage","ligne":"412"}
+{"a":"recherche_code","code":"1609","station":"Chemin de Halage","ligne":"412"}
+{"a":"recherche_code","code":"1610","station":"Chemin de Halage","ligne":"412"}
+{"a":"recherche_code","code":"1628","station":"Eglise","ligne":"412"}
+{"a":"recherche_code","code":"1629","station":"Eglise","ligne":"412"}
+{"a":"recherche_code","code":"1637","station":"Gabrielle d'Estrées","ligne":"412"}
+{"a":"recherche_code","code":"1558","station":"Halte SNCF","ligne":"412"}
+{"a":"recherche_code","code":"1675","station":"La Justice","ligne":"412"}
+{"a":"recherche_code","code":"1377","station":"Le Couday Montceaux Les Griottes","ligne":"412"}
+{"a":"recherche_code","code":"1643","station":"Le Golf","ligne":"412"}
+{"a":"recherche_code","code":"1677","station":"Libellules 1","ligne":"412"}
+{"a":"recherche_code","code":"1678","station":"Libellules 1","ligne":"412"}
+{"a":"recherche_code","code":"1679","station":"Libellules 2","ligne":"412"}
+{"a":"recherche_code","code":"1224","station":"Mairie","ligne":"412"}
+{"a":"recherche_code","code":"1225","station":"Terminal David Douillet","ligne":"412"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"412"}
+{"a":"recherche_code","code":"1320","station":"Beau Rivage","ligne":"412"}
+{"a":"recherche_code","code":"1609","station":"Chemin de Halage","ligne":"412"}
+{"a":"recherche_code","code":"1610","station":"Chemin de Halage","ligne":"412"}
+{"a":"recherche_code","code":"1628","station":"Eglise","ligne":"412"}
+{"a":"recherche_code","code":"1637","station":"Gabrielle d'Estrées","ligne":"412"}
+{"a":"recherche_code","code":"1629","station":"Eglise","ligne":"412"}
+{"a":"recherche_code","code":"1405","station":"La Guiche","ligne":"412"}
+{"a":"recherche_code","code":"1558","station":"Halte SNCF","ligne":"412"}
+{"a":"recherche_code","code":"1676","station":"La Justice","ligne":"412"}
+{"a":"recherche_code","code":"1377","station":"Le Couday Montceaux Les Griottes","ligne":"412"}
+{"a":"recherche_code","code":"1644","station":"Le Golf","ligne":"412"}
+{"a":"recherche_code","code":"1677","station":"Libellules 1","ligne":"412"}
+{"a":"recherche_code","code":"1678","station":"Libellules 1","ligne":"412"}
+{"a":"recherche_code","code":"1679","station":"Libellules 2","ligne":"412"}
+{"a":"recherche_code","code":"2268","station":"Mairie","ligne":"412"}
+{"a":"recherche_code","code":"1225","station":"Terminal David Douillet","ligne":"412"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"412"}
+{"a":"recherche_code","code":"1306","station":"Arnaud Massy","ligne":"413"}
+{"a":"recherche_code","code":"1545","station":"Auguste Plat","ligne":"413"}
+{"a":"recherche_code","code":"1021","station":"Bois de l'Epine RER","ligne":"413"}
+{"a":"recherche_code","code":"1605","station":"Centre Cial les Aunettes","ligne":"413"}
+{"a":"recherche_code","code":"1345","station":"Cimetiere","ligne":"413"}
+{"a":"recherche_code","code":"1365","station":"Daumesnil","ligne":"413"}
+{"a":"recherche_code","code":"1375","station":"Edouard Branly","ligne":"413"}
+{"a":"recherche_code","code":"1381","station":"Faisanderie","ligne":"413"}
+{"a":"recherche_code","code":"1386","station":"Gabriel Jaillard","ligne":"413"}
+{"a":"recherche_code","code":"1378","station":"Hameaux de la Roche","ligne":"413"}
+{"a":"recherche_code","code":"1406","station":"Hôtel de Ville","ligne":"413"}
+{"a":"recherche_code","code":"1409","station":"Imprimerie Nationale","ligne":"413"}
+{"a":"recherche_code","code":"1413","station":"Jean Mermoz","ligne":"413"}
+{"a":"recherche_code","code":"1434","station":"La Croix Blanche","ligne":"413"}
+{"a":"recherche_code","code":"1140","station":"La Garenne","ligne":"413"}
+{"a":"recherche_code","code":"1651","station":"La Mare à Pilatre","ligne":"413"}
+{"a":"recherche_code","code":"1025","station":"Les Coccinelles","ligne":"413"}
+{"a":"recherche_code","code":"1465","station":"Les Demoiselles","ligne":"413"}
+{"a":"recherche_code","code":"1474","station":"Les Petits Bois","ligne":"413"}
+{"a":"recherche_code","code":"1482","station":"Les Trois Parts","ligne":"413"}
+{"a":"recherche_code","code":"1487","station":"Louis Bourdet","ligne":"413"}
+{"a":"recherche_code","code":"1498","station":"Maisons du Golf","ligne":"413"}
+{"a":"recherche_code","code":"1038","station":"Marchais Guesdon","ligne":"413"}
+{"a":"recherche_code","code":"1121","station":"Marinière Lycée","ligne":"413"}
+{"a":"recherche_code","code":"1043","station":"Orme à Martin","ligne":"413"}
+{"a":"recherche_code","code":"1570","station":"Rue du Clos","ligne":"413"}
+{"a":"recherche_code","code":"1662","station":"Sacré-Coeur","ligne":"413"}
+{"a":"recherche_code","code":"1654","station":"Salvador Allende","ligne":"413"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"413"}
+{"a":"recherche_code","code":"1307","station":"Arnaud Massy","ligne":"413"}
+{"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"413"}
+{"a":"recherche_code","code":"1313","station":"Avenue de l'Essonne","ligne":"413"}
+{"a":"recherche_code","code":"1024","station":"Bois de l'Epine RER","ligne":"413"}
+{"a":"recherche_code","code":"1605","station":"Centre Cial les Aunettes","ligne":"413"}
+{"a":"recherche_code","code":"1344","station":"Cimetière","ligne":"413"}
+{"a":"recherche_code","code":"1374","station":"Edouard Branly","ligne":"413"}
+{"a":"recherche_code","code":"1382","station":"Faisanderie","ligne":"413"}
+{"a":"recherche_code","code":"1387","station":"Gabriel Jaillard","ligne":"413"}
+{"a":"recherche_code","code":"1409","station":"Imprimerie Nationale","ligne":"413"}
+{"a":"recherche_code","code":"1391","station":"George Sand","ligne":"413"}
+{"a":"recherche_code","code":"1414","station":"Jean Mermoz","ligne":"413"}
+{"a":"recherche_code","code":"1139","station":"La Garenne","ligne":"413"}
+{"a":"recherche_code","code":"1650","station":"La Mare à Pilatre","ligne":"413"}
+{"a":"recherche_code","code":"1464","station":"Les Coccinelles","ligne":"413"}
+{"a":"recherche_code","code":"1466","station":"Les Demoiselles","ligne":"413"}
+{"a":"recherche_code","code":"1475","station":"Les Petits Bois","ligne":"413"}
+{"a":"recherche_code","code":"1483","station":"Les Trois Parts","ligne":"413"}
+{"a":"recherche_code","code":"1486","station":"Louis Bourdet","ligne":"413"}
+{"a":"recherche_code","code":"1499","station":"Maisons du Golf","ligne":"413"}
+{"a":"recherche_code","code":"1039","station":"Marchais Guesdon","ligne":"413"}
+{"a":"recherche_code","code":"1121","station":"Marinière Lycée","ligne":"413"}
+{"a":"recherche_code","code":"1042","station":"Orme à Martin","ligne":"413"}
+{"a":"recherche_code","code":"1018","station":"Rue du Clos","ligne":"413"}
+{"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"413"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"413"}
+{"a":"recherche_code","code":"1306","station":"Arnaud Massy","ligne":"414"}
+{"a":"recherche_code","code":"1314","station":"Avenue du Lac","ligne":"414"}
+{"a":"recherche_code","code":"1323","station":"Bois Bailleul","ligne":"414"}
+{"a":"recherche_code","code":"1325","station":"Bois Briard","ligne":"414"}
+{"a":"recherche_code","code":"1334","station":"C.G.A","ligne":"414"}
+{"a":"recherche_code","code":"1146","station":"Chemin de la Joute","ligne":"414"}
+{"a":"recherche_code","code":"1622","station":"Evry Courcouronnes Centre RER","ligne":"414"}
+{"a":"recherche_code","code":"1380","station":"Eurocontrol","ligne":"414"}
+{"a":"recherche_code","code":"1641","station":"Général de Gaulle","ligne":"414"}
+{"a":"recherche_code","code":"1381","station":"Faisanderie","ligne":"414"}
+{"a":"recherche_code","code":"1409","station":"Imprimerie Nationale","ligne":"414"}
+{"a":"recherche_code","code":"1411","station":"Jean Mermoz","ligne":"414"}
+{"a":"recherche_code","code":"1059","station":"JM.Djibaou","ligne":"414"}
+{"a":"recherche_code","code":"1140","station":"La Garenne","ligne":"414"}
+{"a":"recherche_code","code":"1448","station":"La Tremblaie","ligne":"414"}
+{"a":"recherche_code","code":"1138","station":"La Vanne","ligne":"414"}
+{"a":"recherche_code","code":"1455","station":"Le Lunain","ligne":"414"}
+{"a":"recherche_code","code":"1459","station":"Les Bocages","ligne":"414"}
+{"a":"recherche_code","code":"1465","station":"Les Demoiselles","ligne":"414"}
+{"a":"recherche_code","code":"1476","station":"Les Petits Bois","ligne":"414"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"414"}
+{"a":"recherche_code","code":"1484","station":"Les Vergers","ligne":"414"}
+{"a":"recherche_code","code":"1680","station":"Mairie","ligne":"414"}
+{"a":"recherche_code","code":"1498","station":"Maisons du Golf","ligne":"414"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"414"}
+{"a":"recherche_code","code":"1516","station":"Parc de Tréville","ligne":"414"}
+{"a":"recherche_code","code":"1526","station":"Pierre Marcille","ligne":"414"}
+{"a":"recherche_code","code":"1655","station":"Saint Guénault","ligne":"414"}
+{"a":"recherche_code","code":"1133","station":"Thorigny","ligne":"414"}
+{"a":"recherche_code","code":"1682","station":"ZI Bordes Nord","ligne":"414"}
+{"a":"recherche_code","code":"1684","station":"ZI Bordes Sud","ligne":"414"}
+{"a":"recherche_code","code":"1593","station":"ZI Gustave Madiot","ligne":"414"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"414"}
+{"a":"recherche_code","code":"1307","station":"Arnaud Massy","ligne":"414"}
+{"a":"recherche_code","code":"1315","station":"Avenue du Lac","ligne":"414"}
+{"a":"recherche_code","code":"1324","station":"Bois Bailleul","ligne":"414"}
+{"a":"recherche_code","code":"1326","station":"Bois Briard","ligne":"414"}
+{"a":"recherche_code","code":"1335","station":"C.G.A","ligne":"414"}
+{"a":"recherche_code","code":"1145","station":"Chemin de la Joute","ligne":"414"}
+{"a":"recherche_code","code":"1380","station":"Eurocontrol","ligne":"414"}
+{"a":"recherche_code","code":"1143","station":"Evry Courcouronnes Centre RER","ligne":"414"}
+{"a":"recherche_code","code":"1382","station":"Faisanderie","ligne":"414"}
+{"a":"recherche_code","code":"1642","station":"Général de Gaulle","ligne":"414"}
+{"a":"recherche_code","code":"1409","station":"Imprimerie Nationale","ligne":"414"}
+{"a":"recherche_code","code":"1060","station":"JM.Djibaou","ligne":"414"}
+{"a":"recherche_code","code":"1412","station":"Jean Mermoz","ligne":"414"}
+{"a":"recherche_code","code":"1139","station":"La Garenne","ligne":"414"}
+{"a":"recherche_code","code":"1447","station":"La Tremblaie","ligne":"414"}
+{"a":"recherche_code","code":"1137","station":"La Vanne","ligne":"414"}
+{"a":"recherche_code","code":"1456","station":"Le Lunain","ligne":"414"}
+{"a":"recherche_code","code":"1460","station":"Les Bocages","ligne":"414"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"414"}
+{"a":"recherche_code","code":"1477","station":"Les Petits Bois","ligne":"414"}
+{"a":"recherche_code","code":"1485","station":"Les Vergers","ligne":"414"}
+{"a":"recherche_code","code":"1466","station":"Les Demoiselles","ligne":"414"}
+{"a":"recherche_code","code":"1499","station":"Maisons du Golf","ligne":"414"}
+{"a":"recherche_code","code":"1681","station":"Mairie","ligne":"414"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"414"}
+{"a":"recherche_code","code":"1516","station":"Parc de Tréville","ligne":"414"}
+{"a":"recherche_code","code":"1663","station":"Pasteur","ligne":"414"}
+{"a":"recherche_code","code":"1527","station":"Pierre Marcille","ligne":"414"}
+{"a":"recherche_code","code":"1128","station":"Saint Guénault","ligne":"414"}
+{"a":"recherche_code","code":"1134","station":"Thorigny","ligne":"414"}
+{"a":"recherche_code","code":"1683","station":"ZI Bordes Nord","ligne":"414"}
+{"a":"recherche_code","code":"1685","station":"ZI Bordes Sud","ligne":"414"}
+{"a":"recherche_code","code":"1594","station":"ZI Gustave Madiot","ligne":"414"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"414"}
+{"a":"recherche_code","code":"1310","station":"Aubépine","ligne":"415"}
+{"a":"recherche_code","code":"1321","station":"Bel Air","ligne":"415"}
+{"a":"recherche_code","code":"1607","station":"Centre Commercial","ligne":"415"}
+{"a":"recherche_code","code":"1327","station":"Bois Chaland","ligne":"415"}
+{"a":"recherche_code","code":"1348","station":"Cimetière","ligne":"415"}
+{"a":"recherche_code","code":"1354","station":"Clos aux Pois","ligne":"415"}
+{"a":"recherche_code","code":"1367","station":"Dauphiné","ligne":"415"}
+{"a":"recherche_code","code":"1105","station":"Evry Courcouronnes Centre RER","ligne":"415"}
+{"a":"recherche_code","code":"1115","station":"Gaspéri","ligne":"415"}
+{"a":"recherche_code","code":"1408","station":"IKEA","ligne":"415"}
+{"a":"recherche_code","code":"1059","station":"JM.Djibaou","ligne":"415"}
+{"a":"recherche_code","code":"1031","station":"Les Brateaux","ligne":"415"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"415"}
+{"a":"recherche_code","code":"1686","station":"Mairie","ligne":"415"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"415"}
+{"a":"recherche_code","code":"1521","station":"Petite Montagne","ligne":"415"}
+{"a":"recherche_code","code":"1542","station":"Petite Montagne Sud","ligne":"415"}
+{"a":"recherche_code","code":"1524","station":"Petits Champs","ligne":"415"}
+{"a":"recherche_code","code":"1218","station":"Pyrénées","ligne":"415"}
+{"a":"recherche_code","code":"1030","station":"Villabé Gare SNCF","ligne":"415"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"415"}
+{"a":"recherche_code","code":"1311","station":"Aubépine","ligne":"415"}
+{"a":"recherche_code","code":"1328","station":"Bois Chaland","ligne":"415"}
+{"a":"recherche_code","code":"1322","station":"Bel Air","ligne":"415"}
+{"a":"recherche_code","code":"1026","station":"Centre Commercial","ligne":"415"}
+{"a":"recherche_code","code":"1354","station":"Clos aux Pois","ligne":"415"}
+{"a":"recherche_code","code":"1368","station":"Dauphiné","ligne":"415"}
+{"a":"recherche_code","code":"1143","station":"Evry Courcouronnes Centre RER","ligne":"415"}
+{"a":"recherche_code","code":"1035","station":"Gaspéri","ligne":"415"}
+{"a":"recherche_code","code":"1407","station":"IKEA","ligne":"415"}
+{"a":"recherche_code","code":"1060","station":"JM.Djibaou","ligne":"415"}
+{"a":"recherche_code","code":"1032","station":"Les Brateaux","ligne":"415"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"415"}
+{"a":"recherche_code","code":"1029","station":"Mairie","ligne":"415"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"415"}
+{"a":"recherche_code","code":"1520","station":"Petite Montagne","ligne":"415"}
+{"a":"recherche_code","code":"1543","station":"Petite Montagne Sud","ligne":"415"}
+{"a":"recherche_code","code":"1525","station":"Petits Champs","ligne":"415"}
+{"a":"recherche_code","code":"1219","station":"Pyrénées","ligne":"415"}
+{"a":"recherche_code","code":"1030","station":"Villabé Gare SNCF","ligne":"415"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"415"}
+{"a":"recherche_code","code":"1327","station":"Bois Chaland","ligne":"416"}
+{"a":"recherche_code","code":"1367","station":"Dauphiné","ligne":"416"}
+{"a":"recherche_code","code":"1105","station":"Evry Courcouronnes Centre RER","ligne":"416"}
+{"a":"recherche_code","code":"1384","station":"Ferme de Place","ligne":"416"}
+{"a":"recherche_code","code":"1669","station":"Ferme des Folies","ligne":"416"}
+{"a":"recherche_code","code":"1115","station":"Gaspéri","ligne":"416"}
+{"a":"recherche_code","code":"1059","station":"JM.Djibaou","ligne":"416"}
+{"a":"recherche_code","code":"1671","station":"Léonard de Vinci","ligne":"416"}
+{"a":"recherche_code","code":"1056","station":"Les Estudines","ligne":"416"}
+{"a":"recherche_code","code":"1521","station":"Petite Montagne","ligne":"416"}
+{"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"416"}
+{"a":"recherche_code","code":"1542","station":"Petite Montagne Sud","ligne":"416"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"416"}
+{"a":"recherche_code","code":"1328","station":"Bois Chaland","ligne":"416"}
+{"a":"recherche_code","code":"1368","station":"Dauphiné","ligne":"416"}
+{"a":"recherche_code","code":"1143","station":"Evry Courcouronnes Centre RER","ligne":"416"}
+{"a":"recherche_code","code":"1385","station":"Ferme de Place","ligne":"416"}
+{"a":"recherche_code","code":"1035","station":"Gaspéri","ligne":"416"}
+{"a":"recherche_code","code":"1670","station":"Ferme des Folies","ligne":"416"}
+{"a":"recherche_code","code":"1060","station":"JM.Djibaou","ligne":"416"}
+{"a":"recherche_code","code":"1672","station":"Léonard de Vinci","ligne":"416"}
+{"a":"recherche_code","code":"1055","station":"Les Estudines","ligne":"416"}
+{"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"416"}
+{"a":"recherche_code","code":"1520","station":"Petite Montagne","ligne":"416"}
+{"a":"recherche_code","code":"1543","station":"Petite Montagne Sud","ligne":"416"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"416"}
+{"a":"recherche_code","code":"1687","station":"Auguste Plat-Sta","ligne":"418"}
+{"a":"recherche_code","code":"1086","station":"Aunettes L.E.P.","ligne":"418"}
+{"a":"recherche_code","code":"1313","station":"Avenue de l'Essonne","ligne":"418"}
+{"a":"recherche_code","code":"1316","station":"Avenue du Parc","ligne":"418"}
+{"a":"recherche_code","code":"1088","station":"Bois de l'Epine RER","ligne":"418"}
+{"a":"recherche_code","code":"1605","station":"Centre Cial les Aunettes","ligne":"418"}
+{"a":"recherche_code","code":"1690","station":"C.E.S. Albert Camus","ligne":"418"}
+{"a":"recherche_code","code":"1351","station":"Cimetière","ligne":"418"}
+{"a":"recherche_code","code":"1365","station":"Daumesnil","ligne":"418"}
+{"a":"recherche_code","code":"1383","station":"Fauvettes","ligne":"418"}
+{"a":"recherche_code","code":"1555","station":"Gare Val de Ris RER","ligne":"418"}
+{"a":"recherche_code","code":"1378","station":"Hameaux de la Roche","ligne":"418"}
+{"a":"recherche_code","code":"1691","station":"Mairie","ligne":"418"}
+{"a":"recherche_code","code":"1692","station":"Maternelle Picasso","ligne":"418"}
+{"a":"recherche_code","code":"1511","station":"Notre Dame Rue du Clos","ligne":"418"}
+{"a":"recherche_code","code":"1572","station":"Rue des Perdrix","ligne":"418"}
+{"a":"recherche_code","code":"1552","station":"Route de Grigny","ligne":"418"}
+{"a":"recherche_code","code":"1693","station":"Rue de Strasbourg","ligne":"418"}
+{"a":"recherche_code","code":"1577","station":"Rue du Temple","ligne":"418"}
+{"a":"recherche_code","code":"1578","station":"Rue Gambetta","ligne":"418"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"418"}
+{"a":"recherche_code","code":"1545","station":"Auguste Plat","ligne":"419"}
+{"a":"recherche_code","code":"1313","station":"Avenue de l'Essonne","ligne":"419"}
+{"a":"recherche_code","code":"1316","station":"Avenue du Parc","ligne":"419"}
+{"a":"recherche_code","code":"1333","station":"CC Ferme du Temple","ligne":"419"}
+{"a":"recherche_code","code":"1302","station":"CC Moulin à Vent","ligne":"419"}
+{"a":"recherche_code","code":"1605","station":"Centre Cial les Aunettes","ligne":"419"}
+{"a":"recherche_code","code":"1690","station":"C.E.S. Albert Camus","ligne":"419"}
+{"a":"recherche_code","code":"1351","station":"Cimetière","ligne":"419"}
+{"a":"recherche_code","code":"1365","station":"Daumesnil","ligne":"419"}
+{"a":"recherche_code","code":"1376","station":"Eglise Sacré Coeur","ligne":"419"}
+{"a":"recherche_code","code":"1383","station":"Fauvettes","ligne":"419"}
+{"a":"recherche_code","code":"1339","station":"Chemin du trousseau","ligne":"419"}
+{"a":"recherche_code","code":"1555","station":"Gare Val de Ris RER","ligne":"419"}
+{"a":"recherche_code","code":"1379","station":"Grand-Bourg","ligne":"419"}
+{"a":"recherche_code","code":"1398","station":"Gutenberg","ligne":"419"}
+{"a":"recherche_code","code":"1399","station":"Gutenberg","ligne":"419"}
+{"a":"recherche_code","code":"1378","station":"Hameaux de la Roche","ligne":"419"}
+{"a":"recherche_code","code":"1647","station":"Jean Jaurès","ligne":"419"}
+{"a":"recherche_code","code":"1691","station":"Mairie","ligne":"419"}
+{"a":"recherche_code","code":"1511","station":"Notre Dame Rue du Clos","ligne":"419"}
+{"a":"recherche_code","code":"1552","station":"Route de Grigny","ligne":"419"}
+{"a":"recherche_code","code":"1577","station":"Rue du Temple","ligne":"419"}
+{"a":"recherche_code","code":"1578","station":"Rue Gambetta","ligne":"419"}
+{"a":"recherche_code","code":"1591","station":"Vieux Cèdre","ligne":"419"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"419"}
+{"a":"recherche_code","code":"1419","station":"Avenue Jean Merm","ligne":"420"}
+{"a":"recherche_code","code":"1317","station":"Barbusse Cassin","ligne":"420"}
+{"a":"recherche_code","code":"1148","station":"Cimetière","ligne":"420"}
+{"a":"recherche_code","code":"1089","station":"Gare RER","ligne":"420"}
+{"a":"recherche_code","code":"1208","station":"Grigny Centre RE","ligne":"420"}
+{"a":"recherche_code","code":"1394","station":"Guérinière","ligne":"420"}
+{"a":"recherche_code","code":"1426","station":"J.P. Timbaud","ligne":"420"}
+{"a":"recherche_code","code":"1571","station":"Jean Moulin","ligne":"420"}
+{"a":"recherche_code","code":"1438","station":"La Ferme Neuve","ligne":"420"}
+{"a":"recherche_code","code":"1446","station":"La Rivière","ligne":"420"}
+{"a":"recherche_code","code":"1635","station":"La Serpente","ligne":"420"}
+{"a":"recherche_code","code":"1177","station":"Le Damier","ligne":"420"}
+{"a":"recherche_code","code":"1135","station":"Les Merisiers","ligne":"420"}
+{"a":"recherche_code","code":"1184","station":"Les Solstices","ligne":"420"}
+{"a":"recherche_code","code":"1174","station":"Mairie","ligne":"420"}
+{"a":"recherche_code","code":"1203","station":"Mairie","ligne":"420"}
+{"a":"recherche_code","code":"1016","station":"Marché Morsang","ligne":"420"}
+{"a":"recherche_code","code":"1172","station":"Pablo Neruda","ligne":"420"}
+{"a":"recherche_code","code":"1532","station":"Place Henri IV","ligne":"420"}
+{"a":"recherche_code","code":"1534","station":"Place Marcel Sembat","ligne":"420"}
+{"a":"recherche_code","code":"1564","station":"Rue de l'Egalité","ligne":"420"}
+{"a":"recherche_code","code":"1566","station":"Rue de Morsang","ligne":"420"}
+{"a":"recherche_code","code":"1584","station":"Square Jean Lurçat","ligne":"420"}
+{"a":"recherche_code","code":"1638","station":"Voie de Compiègne","ligne":"420"}
+{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"420"}
+{"a":"recherche_code","code":"1305","station":"Aristide BRIAND","ligne":"401"}
+{"a":"recherche_code","code":"1389","station":"Bois Clairs","ligne":"401"}

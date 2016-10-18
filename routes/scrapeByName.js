@@ -8,6 +8,13 @@ var async = require('async');
 
 const extractFromHtml = (webPage, arr) => {
     const $ = cheerio.load(webPage);
+    const input = $('#form_arrets input');
+    const obj = {
+        ligne: input && input[4] && input[4].attribs? input[4].attribs.value : false
+    }
+    if (!obj.ligne) {
+      return;
+    }
     let i = 0;
     for (key in $('#list_refs option')) {
         if (i > 0) {
@@ -25,7 +32,8 @@ const extractFromHtml = (webPage, arr) => {
                 arr.push(Object.assign({}, {
                     a: 'recherche_code',
                     code: code,
-                    station: station.trim()
+                    station: station.trim(),
+                    ligne: obj.ligne
                 }))
             }
         }
