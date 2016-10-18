@@ -40,7 +40,6 @@
 {"a":"recherche_code","code":"1195","station":"Saint Hubert","ligne":"401"}
 {"a":"recherche_code","code":"2255","station":"Strathkelvin","ligne":"401"}
 {"a":"recherche_code","code":"1595","station":"Z.I. des Ciroliers","ligne":"401"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"401"}
 {"a":"recherche_code","code":"1007","station":"Agora","ligne":"401"}
 {"a":"recherche_code","code":"1094","station":"Aguado","ligne":"401"}
 {"a":"recherche_code","code":"1304","station":"Aristide BRIAND","ligne":"401"}
@@ -85,7 +84,6 @@
 {"a":"recherche_code","code":"1194","station":"Saint Hubert","ligne":"401"}
 {"a":"recherche_code","code":"1568","station":"Strathkelvin","ligne":"401"}
 {"a":"recherche_code","code":"1596","station":"Z.I. des Ciroliers","ligne":"401"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"401"}
 {"a":"recherche_code","code":"1012","station":"Agora","ligne":"402"}
 {"a":"recherche_code","code":"2286","station":"Ambroise Croizat","ligne":"402"}
 {"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"402"}
@@ -128,7 +126,6 @@
 {"a":"recherche_code","code":"1052","station":"Temps des cerises SNECMA","ligne":"402"}
 {"a":"recherche_code","code":"1226","station":"Terminal David Douillet","ligne":"402"}
 {"a":"recherche_code","code":"1588","station":"Toussaint Louver","ligne":"402"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"402"}
 {"a":"recherche_code","code":"1008","station":"Agora","ligne":"402"}
 {"a":"recherche_code","code":"1303","station":"Ambroise Croizat","ligne":"402"}
 {"a":"recherche_code","code":"1545","station":"Auguste Plat","ligne":"402"}
@@ -172,7 +169,6 @@
 {"a":"recherche_code","code":"1051","station":"Temps des cerises SNECMA","ligne":"402"}
 {"a":"recherche_code","code":"1226","station":"Terminal David Douillet","ligne":"402"}
 {"a":"recherche_code","code":"1589","station":"Toussaint Louver","ligne":"402"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"402"}
 {"a":"recherche_code","code":"1008","station":"Agora","ligne":"403"}
 {"a":"recherche_code","code":"1095","station":"Aguado","ligne":"403"}
 {"a":"recherche_code","code":"1103","station":"Allée Clémenceau","ligne":"403"}
@@ -220,7 +216,6 @@
 {"a":"recherche_code","code":"1655","station":"Saint Guénault","ligne":"403"}
 {"a":"recherche_code","code":"1608","station":"Soisy s/Seine Collège","ligne":"403"}
 {"a":"recherche_code","code":"1221","station":"Soisy s/Seine - Les Meillottes","ligne":"403"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"403"}
 {"a":"recherche_code","code":"1007","station":"Agora","ligne":"403"}
 {"a":"recherche_code","code":"1094","station":"Aguado","ligne":"403"}
 {"a":"recherche_code","code":"1102","station":"Allée Clémenceau","ligne":"403"}
@@ -262,7 +257,6 @@
 {"a":"recherche_code","code":"1128","station":"Saint Guénault","ligne":"403"}
 {"a":"recherche_code","code":"1608","station":"Soisy s/Seine Collège","ligne":"403"}
 {"a":"recherche_code","code":"1221","station":"Soisy s/Seine - Les Meillottes","ligne":"403"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"403"}
 {"a":"recherche_code","code":"1009","station":"Agora","ligne":"404"}
 {"a":"recherche_code","code":"1094","station":"Aguado","ligne":"404"}
 {"a":"recherche_code","code":"1102","station":"Allée Clémenceau","ligne":"404"}
@@ -291,7 +285,6 @@
 {"a":"recherche_code","code":"1110","station":"Rue d'Antin","ligne":"404"}
 {"a":"recherche_code","code":"1098","station":"Saint-Exupéry","ligne":"404"}
 {"a":"recherche_code","code":"1133","station":"Thorigny","ligne":"404"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"404"}
 {"a":"recherche_code","code":"1010","station":"Agora","ligne":"404"}
 {"a":"recherche_code","code":"1095","station":"Aguado","ligne":"404"}
 {"a":"recherche_code","code":"1103","station":"Allée Clémenceau","ligne":"404"}
@@ -321,7 +314,6 @@
 {"a":"recherche_code","code":"1111","station":"Rue d'Antin","ligne":"404"}
 {"a":"recherche_code","code":"1099","station":"Saint-Exupéry","ligne":"404"}
 {"a":"recherche_code","code":"1134","station":"Thorigny","ligne":"404"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"404"}
 {"a":"recherche_code","code":"1300","station":"8 mai 1945","ligne":"405"}
 {"a":"recherche_code","code":"1011","station":"Agora","ligne":"405"}
 {"a":"recherche_code","code":"1086","station":"Aunettes L.E.P.","ligne":"405"}
@@ -371,7 +363,6 @@
 {"a":"recherche_code","code":"1658","station":"Salvador Allende","ligne":"405"}
 {"a":"recherche_code","code":"2283","station":"Sous-Préfecture","ligne":"405"}
 {"a":"recherche_code","code":"1586","station":"Square","ligne":"405"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"405"}
 {"a":"recherche_code","code":"1301","station":"8 mai 1945","ligne":"405"}
 {"a":"recherche_code","code":"1009","station":"Agora","ligne":"405"}
 {"a":"recherche_code","code":"1087","station":"Aunettes L.E.P.","ligne":"405"}
@@ -420,16 +411,13 @@
 {"a":"recherche_code","code":"2287","station":"Salvador Allende","ligne":"405"}
 {"a":"recherche_code","code":"1621","station":"Sous-Préfecture","ligne":"405"}
 {"a":"recherche_code","code":"1587","station":"Square","ligne":"405"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"405"}
 {"a":"recherche_code","code":"1024","station":"Bois de l'Epine RER","ligne":"406"}
 {"a":"recherche_code","code":"1421","station":"Joliot - Curie","ligne":"406"}
 {"a":"recherche_code","code":"1536","station":"Pomponne","ligne":"406"}
 {"a":"recherche_code","code":"1659","station":"ZA Bois de L'Epine","ligne":"406"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"406"}
 {"a":"recherche_code","code":"1024","station":"Bois de l'Epine RER","ligne":"406"}
 {"a":"recherche_code","code":"1537","station":"Pomponne","ligne":"406"}
 {"a":"recherche_code","code":"1659","station":"ZA Bois de L'Epine","ligne":"406"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"406"}
 {"a":"recherche_code","code":"1009","station":"Agora","ligne":"407"}
 {"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"407"}
 {"a":"recherche_code","code":"1116","station":"Aunettes","ligne":"407"}
@@ -456,7 +444,6 @@
 {"a":"recherche_code","code":"1664","station":"Sacré-Coeur","ligne":"407"}
 {"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"407"}
 {"a":"recherche_code","code":"1050","station":"Yerres Louise Michel","ligne":"407"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"407"}
 {"a":"recherche_code","code":"1011","station":"Agora","ligne":"407"}
 {"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"407"}
 {"a":"recherche_code","code":"1116","station":"Aunettes","ligne":"407"}
@@ -485,7 +472,6 @@
 {"a":"recherche_code","code":"1664","station":"Sacré-Coeur","ligne":"407"}
 {"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"407"}
 {"a":"recherche_code","code":"1661","station":"Yerres Louise Michel","ligne":"407"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"407"}
 {"a":"recherche_code","code":"1189","station":"Beauvoir","ligne":"408"}
 {"a":"recherche_code","code":"1233","station":"Blaise Pascal -","ligne":"408"}
 {"a":"recherche_code","code":"1072","station":"Bras de Fer RER","ligne":"408"}
@@ -514,7 +500,6 @@
 {"a":"recherche_code","code":"1551","station":"Rossini","ligne":"408"}
 {"a":"recherche_code","code":"1110","station":"Rue d'Antin","ligne":"408"}
 {"a":"recherche_code","code":"1231","station":"Sabatier","ligne":"408"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"408"}
 {"a":"recherche_code","code":"1188","station":"Beauvoir","ligne":"408"}
 {"a":"recherche_code","code":"1234","station":"Blaise Pascal -","ligne":"408"}
 {"a":"recherche_code","code":"1636","station":"Bras de Fer RER","ligne":"408"}
@@ -544,7 +529,6 @@
 {"a":"recherche_code","code":"1550","station":"Rossini","ligne":"408"}
 {"a":"recherche_code","code":"1111","station":"Rue d'Antin","ligne":"408"}
 {"a":"recherche_code","code":"1232","station":"Sabatier","ligne":"408"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"408"}
 {"a":"recherche_code","code":"1323","station":"Bois Bailleul","ligne":"409"}
 {"a":"recherche_code","code":"1026","station":"Centre Commercial","ligne":"409"}
 {"a":"recherche_code","code":"1337","station":"Champagne","ligne":"409"}
@@ -569,7 +553,6 @@
 {"a":"recherche_code","code":"1497","station":"Maison de l'Enfance","ligne":"409"}
 {"a":"recherche_code","code":"1121","station":"Marinière Lycée","ligne":"409"}
 {"a":"recherche_code","code":"1525","station":"Petits Champs","ligne":"409"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"409"}
 {"a":"recherche_code","code":"1595","station":"Z.I. des Ciroliers","ligne":"409"}
 {"a":"recherche_code","code":"1324","station":"Bois Bailleul","ligne":"409"}
 {"a":"recherche_code","code":"1607","station":"Centre Commercial","ligne":"409"}
@@ -597,7 +580,6 @@
 {"a":"recherche_code","code":"1120","station":"Marinière Lycée","ligne":"409"}
 {"a":"recherche_code","code":"1524","station":"Petits Champs","ligne":"409"}
 {"a":"recherche_code","code":"1596","station":"Z.I. des Ciroliers","ligne":"409"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"409"}
 {"a":"recherche_code","code":"1320","station":"Beau Rivage","ligne":"412"}
 {"a":"recherche_code","code":"1609","station":"Chemin de Halage","ligne":"412"}
 {"a":"recherche_code","code":"1610","station":"Chemin de Halage","ligne":"412"}
@@ -613,7 +595,6 @@
 {"a":"recherche_code","code":"1679","station":"Libellules 2","ligne":"412"}
 {"a":"recherche_code","code":"1224","station":"Mairie","ligne":"412"}
 {"a":"recherche_code","code":"1225","station":"Terminal David Douillet","ligne":"412"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"412"}
 {"a":"recherche_code","code":"1320","station":"Beau Rivage","ligne":"412"}
 {"a":"recherche_code","code":"1609","station":"Chemin de Halage","ligne":"412"}
 {"a":"recherche_code","code":"1610","station":"Chemin de Halage","ligne":"412"}
@@ -630,7 +611,6 @@
 {"a":"recherche_code","code":"1679","station":"Libellules 2","ligne":"412"}
 {"a":"recherche_code","code":"2268","station":"Mairie","ligne":"412"}
 {"a":"recherche_code","code":"1225","station":"Terminal David Douillet","ligne":"412"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"412"}
 {"a":"recherche_code","code":"1306","station":"Arnaud Massy","ligne":"413"}
 {"a":"recherche_code","code":"1545","station":"Auguste Plat","ligne":"413"}
 {"a":"recherche_code","code":"1021","station":"Bois de l'Epine RER","ligne":"413"}
@@ -659,7 +639,6 @@
 {"a":"recherche_code","code":"1570","station":"Rue du Clos","ligne":"413"}
 {"a":"recherche_code","code":"1662","station":"Sacré-Coeur","ligne":"413"}
 {"a":"recherche_code","code":"1654","station":"Salvador Allende","ligne":"413"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"413"}
 {"a":"recherche_code","code":"1307","station":"Arnaud Massy","ligne":"413"}
 {"a":"recherche_code","code":"1544","station":"Auguste Plat","ligne":"413"}
 {"a":"recherche_code","code":"1313","station":"Avenue de l'Essonne","ligne":"413"}
@@ -685,7 +664,6 @@
 {"a":"recherche_code","code":"1042","station":"Orme à Martin","ligne":"413"}
 {"a":"recherche_code","code":"1018","station":"Rue du Clos","ligne":"413"}
 {"a":"recherche_code","code":"1653","station":"Salvador Allende","ligne":"413"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"413"}
 {"a":"recherche_code","code":"1306","station":"Arnaud Massy","ligne":"414"}
 {"a":"recherche_code","code":"1314","station":"Avenue du Lac","ligne":"414"}
 {"a":"recherche_code","code":"1323","station":"Bois Bailleul","ligne":"414"}
@@ -718,7 +696,6 @@
 {"a":"recherche_code","code":"1682","station":"ZI Bordes Nord","ligne":"414"}
 {"a":"recherche_code","code":"1684","station":"ZI Bordes Sud","ligne":"414"}
 {"a":"recherche_code","code":"1593","station":"ZI Gustave Madiot","ligne":"414"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"414"}
 {"a":"recherche_code","code":"1307","station":"Arnaud Massy","ligne":"414"}
 {"a":"recherche_code","code":"1315","station":"Avenue du Lac","ligne":"414"}
 {"a":"recherche_code","code":"1324","station":"Bois Bailleul","ligne":"414"}
@@ -752,7 +729,6 @@
 {"a":"recherche_code","code":"1683","station":"ZI Bordes Nord","ligne":"414"}
 {"a":"recherche_code","code":"1685","station":"ZI Bordes Sud","ligne":"414"}
 {"a":"recherche_code","code":"1594","station":"ZI Gustave Madiot","ligne":"414"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"414"}
 {"a":"recherche_code","code":"1310","station":"Aubépine","ligne":"415"}
 {"a":"recherche_code","code":"1321","station":"Bel Air","ligne":"415"}
 {"a":"recherche_code","code":"1607","station":"Centre Commercial","ligne":"415"}
@@ -773,7 +749,6 @@
 {"a":"recherche_code","code":"1524","station":"Petits Champs","ligne":"415"}
 {"a":"recherche_code","code":"1218","station":"Pyrénées","ligne":"415"}
 {"a":"recherche_code","code":"1030","station":"Villabé Gare SNCF","ligne":"415"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"415"}
 {"a":"recherche_code","code":"1311","station":"Aubépine","ligne":"415"}
 {"a":"recherche_code","code":"1328","station":"Bois Chaland","ligne":"415"}
 {"a":"recherche_code","code":"1322","station":"Bel Air","ligne":"415"}
@@ -793,7 +768,6 @@
 {"a":"recherche_code","code":"1525","station":"Petits Champs","ligne":"415"}
 {"a":"recherche_code","code":"1219","station":"Pyrénées","ligne":"415"}
 {"a":"recherche_code","code":"1030","station":"Villabé Gare SNCF","ligne":"415"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"415"}
 {"a":"recherche_code","code":"1327","station":"Bois Chaland","ligne":"416"}
 {"a":"recherche_code","code":"1367","station":"Dauphiné","ligne":"416"}
 {"a":"recherche_code","code":"1105","station":"Evry Courcouronnes Centre RER","ligne":"416"}
@@ -806,7 +780,6 @@
 {"a":"recherche_code","code":"1521","station":"Petite Montagne","ligne":"416"}
 {"a":"recherche_code","code":"1064","station":"Monseigneur Roméro","ligne":"416"}
 {"a":"recherche_code","code":"1542","station":"Petite Montagne Sud","ligne":"416"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"416"}
 {"a":"recherche_code","code":"1328","station":"Bois Chaland","ligne":"416"}
 {"a":"recherche_code","code":"1368","station":"Dauphiné","ligne":"416"}
 {"a":"recherche_code","code":"1143","station":"Evry Courcouronnes Centre RER","ligne":"416"}
@@ -819,7 +792,6 @@
 {"a":"recherche_code","code":"1065","station":"Monseigneur Roméro","ligne":"416"}
 {"a":"recherche_code","code":"1520","station":"Petite Montagne","ligne":"416"}
 {"a":"recherche_code","code":"1543","station":"Petite Montagne Sud","ligne":"416"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"416"}
 {"a":"recherche_code","code":"1687","station":"Auguste Plat-Sta","ligne":"418"}
 {"a":"recherche_code","code":"1086","station":"Aunettes L.E.P.","ligne":"418"}
 {"a":"recherche_code","code":"1313","station":"Avenue de l'Essonne","ligne":"418"}
@@ -840,7 +812,6 @@
 {"a":"recherche_code","code":"1693","station":"Rue de Strasbourg","ligne":"418"}
 {"a":"recherche_code","code":"1577","station":"Rue du Temple","ligne":"418"}
 {"a":"recherche_code","code":"1578","station":"Rue Gambetta","ligne":"418"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"418"}
 {"a":"recherche_code","code":"1545","station":"Auguste Plat","ligne":"419"}
 {"a":"recherche_code","code":"1313","station":"Avenue de l'Essonne","ligne":"419"}
 {"a":"recherche_code","code":"1316","station":"Avenue du Parc","ligne":"419"}
@@ -865,7 +836,6 @@
 {"a":"recherche_code","code":"1577","station":"Rue du Temple","ligne":"419"}
 {"a":"recherche_code","code":"1578","station":"Rue Gambetta","ligne":"419"}
 {"a":"recherche_code","code":"1591","station":"Vieux Cèdre","ligne":"419"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"419"}
 {"a":"recherche_code","code":"1419","station":"Avenue Jean Merm","ligne":"420"}
 {"a":"recherche_code","code":"1317","station":"Barbusse Cassin","ligne":"420"}
 {"a":"recherche_code","code":"1148","station":"Cimetière","ligne":"420"}
@@ -890,6 +860,5 @@
 {"a":"recherche_code","code":"1566","station":"Rue de Morsang","ligne":"420"}
 {"a":"recherche_code","code":"1584","station":"Square Jean Lurçat","ligne":"420"}
 {"a":"recherche_code","code":"1638","station":"Voie de Compiègne","ligne":"420"}
-{"a":"recherche_code","code":"f-8\"","station":"ml version=\"1.0\" encoding=\"u","ligne":"420"}
 {"a":"recherche_code","code":"1305","station":"Aristide BRIAND","ligne":"401"}
 {"a":"recherche_code","code":"1389","station":"Bois Clairs","ligne":"401"}

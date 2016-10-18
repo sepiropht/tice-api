@@ -1,16 +1,19 @@
 <ion-header>
   <ion-navbar>
-    <ion-searchbar
-      [showCancelButton]="shouldShowCancel"
-      [placeholder] = placeholder
-      (ionInput)="onInput($event)"
-      (ionCancel)="onCancel($event)">
+    <ion-searchbar [showCancelButton]="shouldShowCancel" ng-model-options="{debounce: 500}"[placeholder]=p laceholder (ionInput)="onInput($event)" (ionCancel)="onCancel($event)">
     </ion-searchbar>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
- <ul>
-   <li *ngFor="let item of results">{{item.station}}</li>
- </ul>
+
+  <ion-list>
+    <ion-item *ngFor="let item of results" (click) = "onClick(item)">
+      <ion-thumbnail item-right>
+        <img src="../assets/img/{{item.ligne}}.jpg">
+      </ion-thumbnail>
+      <h1>{{item.station}}</h1>
+    </ion-item>
+  </ion-list>
+
 </ion-content>
