@@ -6,11 +6,13 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 import {StationCode} from '../service/stationCode';
-
+import {StationDetail} from '../pages/station-detail/station-detail';
+import {ExtractFromHtml} from '../providers/extract-from-html';
 @NgModule({
   declarations: [
     MyApp,
-    SearchPage
+    SearchPage,
+    StationDetail
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -18,8 +20,9 @@ import {StationCode} from '../service/stationCode';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    SearchPage
+    SearchPage,
+    StationDetail
   ],
-  providers: [StationCode]
+  providers: [StationCode, ExtractFromHtml]
 })
 export class AppModule {}
