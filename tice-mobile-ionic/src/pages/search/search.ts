@@ -36,7 +36,6 @@ export class SearchPage {
 
      this.http.post('http://www.bus-tice.com/se-deplacer/timeo-vos-horaires-en-temps-reel/',{a:'recherche_code', code:item.codes[1]}).map(res => res.json()).subscribe(data => {
         console.log(data);
-        debugger;
         this.parsing.get('lalalla!');
 
      });

@@ -1,0 +1,10 @@
+<StackLayout>
+  <SearchBar #sb
+    (textChange)="onChange($event)">
+ </SearchBar>
+  <ListView [items]="results" class="small-spacing">
+    <template let-item="item">
+      <Label [text]="item.station" class="medium-spacing"></Label>
+    </template>
+  </ListView>
+</StackLayout>
