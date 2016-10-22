@@ -5,6 +5,8 @@ var fs = require('fs');
 var async = require('async');
 var stationCode = require('./stationCode');
 
+var stationCode = stationCode.slice(832,857);
+
 router.get('/', function(req, res, next) {
     const webPageArray = [];
 
