@@ -16,7 +16,8 @@ class UselessTextInput extends Component {
         super(props);
         this.state = {
             text: '',
-            station: []
+            station: [],
+            key:0
         }
 
     }
@@ -28,7 +29,8 @@ class UselessTextInput extends Component {
         return item.station.toLowerCase().indexOf(text.trim()) > -1 || text === item.ligne;
       })
       this.setState({
-        station: newStationState
+        station: newStationState,
+        key: Math.random()
       });
       console.log(this.state);
     }
@@ -42,7 +44,7 @@ class UselessTextInput extends Component {
                     borderColor: 'gray',
                     borderWidth: 1
                 }} onChangeText={this.onChange.bind(this)} value={this.state.text}/>
-              <ListViewBasics data={this.state.station}/>
+              <ListViewBasics key={this.state.key} data={this.state.station}/>
             </View>
         );
     }
