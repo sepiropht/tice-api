@@ -6,35 +6,40 @@ import {
     Text,
     TextInput,
     View,
-    ListView
+    ListView,
+    TouchableOpacity
 } from 'react-native';
 
 const array = StationCode;
-
+const onClick = (item) => {
+      console.log(item);
+      let formData = new FormData;
+      formData.append("a", item.a);
+      formData.append('code', item.code);
+      fetch('http://bus-tice.com/se-deplacer/timeo-vos-horaires-en-temps-reel/', {
+          method: 'POST',
+          body: JSON.stringify({a: item.a, code: item.code})
+      }).then((response) => console.log(response)).catch((error) => {
+          console.error(error);
+      });
+  }
 class UselessTextInput extends Component {
     constructor(props) {
         super(props);
         this.state = {
             text: '',
             station: [],
-            key:0
+            key: 0
         }
 
     }
     onChange(text) {
-      this.setState ({
-        text: text
-      });
-      let newStationState = array.filter(item => {
-        return item.station.toLowerCase().indexOf(text.trim()) > -1 || text === item.ligne;
-      })
-      this.setState({
-        station: newStationState,
-        key: Math.random()
-      });
-      console.log(this.state);
+        this.setState({text: text});
+        let newStationState = array.filter(item => {
+            return item.station.toLowerCase().indexOf(text.trim()) > -1 || text === item.ligne;
+        })
+        this.setState({station: newStationState, key: Math.random()});
     }
-
 
     render() {
         return (
@@ -44,12 +49,17 @@ class UselessTextInput extends Component {
                     borderColor: 'gray',
                     borderWidth: 1
                 }} onChangeText={this.onChange.bind(this)} value={this.state.text}/>
-              <ListViewBasics key={this.state.key} data={this.state.station}/>
+                <ListViewBasics key={this.state.key} data={this.state.station}/>
             </View>
         );
     }
 }
-
+const styless = StyleSheet.create({
+    container: {
+        flex: 1,
+        marginTop: 20
+    }
+});
 class ListViewBasics extends Component {
     // Initialize the hardcoded data
     constructor(props) {
@@ -60,13 +70,19 @@ class ListViewBasics extends Component {
         this.state = {
             dataSource: ds.cloneWithRows(props.data)
         };
+
     }
+
     render() {
         return (
-            <View style={{
-                paddingTop: 22
-            }}>
-                <ListView dataSource={this.state.dataSource} renderRow={(rowData) => <Text>{rowData.station}</Text>}/>
+            <View style={styless.container}>
+                <ListView dataSource={this.state.dataSource} renderRow={(rowData) => <TouchableOpacity onPress={onClick(rowData)}>
+                    <View>
+                        <Text>
+                            {rowData.station}
+                        </Text>
+                    </View>
+                </TouchableOpacity>}/>
             </View>
         );
     }

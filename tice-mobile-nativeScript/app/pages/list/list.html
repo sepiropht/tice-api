@@ -2,9 +2,25 @@
   <SearchBar #sb
     (textChange)="onChange($event)">
  </SearchBar>
-  <ListView [items]="results" class="small-spacing">
+  <ListView [items]="results" class="small-spacing" (itemTap)="onTap" >
     <template let-item="item">
-      <Label [text]="item.station" class="medium-spacing"></Label>
-    </template>
+    <GridLayout
+      columns="*, auto"
+      class="container">
+      <!-- Wrap in containers for bigger tap targets -->
+      <StackLayout
+        col="0"
+        orientation="horizontal"
+        class="tap-target"
+        (tap)="onTap(item)">
+        <!-- <Image
+          [src]="imageSource(item)"
+          class="check-box"></Image> -->
+        <Label
+          [text]="item.station">
+        </Label>
+      </StackLayout>
+    </GridLayout>
+  </template>
   </ListView>
 </StackLayout>
