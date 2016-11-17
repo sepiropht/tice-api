@@ -7,10 +7,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^0.15.2",
     "native-base": "^0.5.11",
     "react": "15.3.2",
     "react-native": "0.35.0",
-    "react-native-material-design": "^0.3.7"
+    "react-native-material-design": "^0.3.7",
+    "request": "^2.76.0"
   },
   "jest": {
     "preset": "jest-react-native"
