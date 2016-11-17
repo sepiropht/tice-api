@@ -11,12 +11,12 @@ import React, {
 from 'react';
 var Web_View = require('./Helpers/WebView');
 
-delete GLOBAL.XMLHttpRequest;
-const _XHR = GLOBAL.originalXMLHttpRequest
-    ? GLOBAL.originalXMLHttpRequest
-    : GLOBAL.XMLHttpRequest
-XMLHttpRequest = _XHR
-
+// delete GLOBAL.XMLHttpRequest;
+// const _XHR = GLOBAL.originalXMLHttpRequest
+//     ? GLOBAL.originalXMLHttpRequest
+//     : GLOBAL.XMLHttpRequest
+//XMLHttpRequest = _XHR
+import {Modal, WebView, View} from 'react-native';
 import {
     Container,
     Header,
@@ -40,7 +40,8 @@ class Main extends Component {
         this.state = {
             text: '',
             station: [],
-            key: 0
+            modalVisible: false,
+            html: ''
         }
 
     }
@@ -66,7 +67,11 @@ class Main extends Component {
             }
         });
     }
-
+    setModalVisible(visible) {
+      this.setState({
+          modalVisible: visible
+      });
+  }
     onPress(item) {
         console.log(item);
         let str = [];
@@ -76,7 +81,6 @@ class Main extends Component {
         })
 
         const body = str.join("&");
-        debugger;
         const req = {
             method: 'post',
             headers: {
@@ -87,6 +91,11 @@ class Main extends Component {
 
         fetch('http://www.bus-tice.com/se-deplacer/timeo-vos-horaires-en-temps-reel/', req).then((response) => response.text()).then((responseData) => {
             console.log(`POST Response, Response Body -> ` + JSON.stringify(responseData))
+            this.setState({
+              html: responseData,
+              modalVisible: true,
+
+            })
         }).done();
     }
 
@@ -128,6 +137,25 @@ class Main extends Component {
                     } < /Text>
                         <Text note>{item.ligne}</Text >
                     < /ListItem>}></List >
+
+                    <Modal
+                        animationType="slide"
+                        transparent={false}
+                        visible={this.state.modalVisible}
+                        onRequestClose={() => {alert("Modal has been closed.")}}
+                        >
+                          <WebView source={{html: this.state.html}}/>
+                          <View>
+
+                                <Button danger style={{alignSelf: 'flex-end'}} onPress={() => {
+                                      this.setModalVisible(!this.state.modalVisible)
+                                  }}>
+                                  Go Back
+                              </Button>
+                          </View>
+
+
+                    </Modal>
                     < /Content>
             </Container >
             );
