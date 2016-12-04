@@ -1,0 +1,72 @@
+body {
+  font-family: monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #8FC357;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  top: 0;
+  width: 100%;
+  font-weight: normal;
+  font-size: 13px;
+  position: fixed;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@import url(http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+.search {
+  width: 100%;
+  position: fixed;
+  top: 189px;
+
+   }
+
+
+.searchTerm {
+  width: 80%;
+  border: 5px solid #8FC357;
+  padding: 5px;
+  height: 40px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+
+
+  border-radius: 5px;
+  outline: none; }
+ul {
+  text-align:  left;
+  margin-top: 257px;
+}
+li {
+    width: 80%;
+    font-family: monospace;
+    background-color: gray;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 5px;
+    list-style-type: none; /* on annule la puce par défaut */
+     /* on affiche l'image souhaitée */
+    background-repeat: no-repeat; /* on annule la répétition par défaut */
+    background-position: right center; /* on positionne où l'on veut */
+    padding-left: 20px; /* pour éviter la superposition du contenu */
+}
