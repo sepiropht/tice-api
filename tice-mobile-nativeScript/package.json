@@ -25,27 +25,27 @@
     }
   },
   "dependencies": {
-    "@angular/common": "2.0.0",
-    "@angular/compiler": "2.0.0",
-    "@angular/core": "2.0.0",
-    "@angular/http": "2.0.0",
-    "@angular/platform-browser": "2.0.0",
-    "@angular/platform-browser-dynamic": "2.0.0",
-    "@angular/platform-server": "2.0.0",
-    "@angular/router": "3.0.0",
-    "nativescript-angular": "1.0.0",
-    "reflect-metadata": "0.1.8",
-    "rxjs": "5.0.0-beta.12",
-    "tns-core-modules": "2.3.0"
+    "@angular/common": "8.1.1",
+    "@angular/compiler": "8.1.1",
+    "@angular/core": "8.1.1",
+    "@angular/http": "7.2.15",
+    "@angular/platform-browser": "8.1.1",
+    "@angular/platform-browser-dynamic": "8.1.1",
+    "@angular/platform-server": "8.1.1",
+    "@angular/router": "8.1.1",
+    "nativescript-angular": "8.0.1",
+    "reflect-metadata": "0.1.13",
+    "rxjs": "6.5.2",
+    "tns-core-modules": "5.4.3"
   },
   "devDependencies": {
-    "babel-traverse": "6.7.6",
-    "babel-types": "6.7.7",
-    "babylon": "6.7.0",
-    "filewalker": "0.1.2",
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "filewalker": "0.1.3",
     "lazy": "1.0.11",
-    "nativescript-dev-typescript": "^0.3.2",
-    "typescript": "^1.8.10",
-    "zone.js": "0.6.21"
+    "nativescript-dev-typescript": "^0.10.0",
+    "typescript": "^3.5.3",
+    "zone.js": "0.9.1"
   }
 }
