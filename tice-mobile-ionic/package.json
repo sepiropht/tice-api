@@ -13,25 +13,25 @@
     "run:before": "build"
   },
   "dependencies": {
-    "@angular/common": "^2.0.0",
-    "@angular/compiler": "^2.0.0",
-    "@angular/compiler-cli": "0.6.2",
-    "@angular/core": "^2.0.0",
-    "@angular/forms": "^2.0.0",
-    "@angular/http": "^2.0.0",
-    "@angular/platform-browser": "^2.0.0",
-    "@angular/platform-browser-dynamic": "^2.0.0",
-    "@angular/platform-server": "^2.0.0",
-    "@ionic/storage": "^1.0.3",
-    "ionic-angular": "^2.0.0-rc.1",
+    "@angular/common": "8.1.1",
+    "@angular/compiler": "8.1.1",
+    "@angular/compiler-cli": "8.1.1",
+    "@angular/core": "8.1.1",
+    "@angular/forms": "^8.1.1",
+    "@angular/http": "7.2.15",
+    "@angular/platform-browser": "8.1.1",
+    "@angular/platform-browser-dynamic": "8.1.1",
+    "@angular/platform-server": "8.1.1",
+    "@ionic/storage": "^2.2.0",
+    "ionic-angular": "^3.9.8",
     "ionic-native": "^2.2.3",
-    "ionicons": "^3.0.0",
-    "rxjs": "5.0.0-beta.12",
-    "zone.js": "^0.6.21"
+    "ionicons": "^4.6.1",
+    "rxjs": "6.5.2",
+    "zone.js": "^0.9.1"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "^0.0.36",
-    "typescript": "^2.0.3"
+    "@ionic/app-scripts": "^3.2.4",
+    "typescript": "^3.5.3"
   },
   "description": "tice-mobile: An Ionic project",
   "cordovaPlugins": [
