@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "create-react-pwa/package.json",
+        "package.json",
+        "react-native/package.json",
+        "tice-mobile-ionic/package.json",
+        "tice-mobile-nativeScript/app/package.json",
+        "tice-mobile-nativeScript/package.json"
+      ]
+    }
+  }
+}
